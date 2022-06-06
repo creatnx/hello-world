@@ -16,7 +16,8 @@ const concurrency = 6000
 
 func main() {
 	// Create the client object just once per process
-	hosts := []string{"34.143.202.235:7233", "34.143.239.158:7233"}
+	//hosts := []string{"34.143.202.235:7233", "34.143.239.158:7233"}
+	hosts := []string{"10.0.0.7:7233", "10.0.0.12:7233"}
 	for _, host := range hosts {
 		go testWithConcur(host, concurrency/len(hosts))
 	}
