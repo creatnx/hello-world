@@ -37,14 +37,14 @@ func testWithConcur(hostPort string, concur int) {
 	defer c.Close()
 
 	buffer := make(chan struct{}, concur)
-	go putBuffer(buffer)
+	go putBuffer(buffer, concur)
 	pullBuffer(buffer, c)
 }
 
-func putBuffer(buffer chan struct{}) {
+func putBuffer(buffer chan struct{}, concur int) {
 	go func() {
 		time.Sleep(time.Second)
-		for i := 0; i < concurrency; i++ {
+		for i := 0; i < concur; i++ {
 			buffer <- struct{}{}
 		}
 	}()
