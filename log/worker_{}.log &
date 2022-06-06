@@ -1,0 +1,2463 @@
+2022/06/03 13:21:41 INFO  No logger configured for temporal client. Created default one.
+recevie poll request 2022-06-03 13:21:43.122355 +0700 +07 m=+1.267593501
+recevie poll request started 100.958µs
+poll wait time 292ns
+recevie poll request 2022-06-03 13:21:43.122463 +0700 +07 m=+1.267701709
+recevie poll request started 25.833µs
+recevie poll request 2022-06-03 13:21:43.122486 +0700 +07 m=+1.267724042
+recevie poll request 2022-06-03 13:21:43.122502 +0700 +07 m=+1.267740251
+recevie poll request started 12.541µs
+recevie poll request 2022-06-03 13:21:43.122518 +0700 +07 m=+1.267756542
+recevie poll request 2022-06-03 13:21:43.122537 +0700 +07 m=+1.267775667
+recevie poll request started 11.709µs
+recevie poll request 2022-06-03 13:21:43.122551 +0700 +07 m=+1.267789626
+recevie poll request started 13.708µs
+recevie poll request 2022-06-03 13:21:43.122544 +0700 +07 m=+1.267782584
+recevie poll request started 127.833µs
+recevie poll request 2022-06-03 13:21:43.122481 +0700 +07 m=+1.267719376
+recevie poll request started 234.375µs
+recevie poll request 2022-06-03 13:21:43.122508 +0700 +07 m=+1.267746209
+recevie poll request started 222.917µs
+recevie poll request 2022-06-03 13:21:43.122509 +0700 +07 m=+1.267747376
+recevie poll request started 244.875µs
+recevie poll request 2022-06-03 13:21:43.122512 +0700 +07 m=+1.267750667
+recevie poll request started 263.959µs
+recevie poll request 2022-06-03 13:21:43.122516 +0700 +07 m=+1.267754667
+recevie poll request started 286µs
+recevie poll request 2022-06-03 13:21:43.122492 +0700 +07 m=+1.267730001
+recevie poll request started 335.416µs
+recevie poll request 2022-06-03 13:21:43.122519 +0700 +07 m=+1.267757209
+recevie poll request started 328.458µs
+recevie poll request 2022-06-03 13:21:43.122536 +0700 +07 m=+1.267774001
+recevie poll request started 326.125µs
+poll wait time 1.542µs
+recevie poll request 2022-06-03 13:21:43.122539 +0700 +07 m=+1.267777542
+recevie poll request 2022-06-03 13:21:43.122543 +0700 +07 m=+1.267781584
+recevie poll request started 390.167µs
+recevie poll request 2022-06-03 13:21:43.122548 +0700 +07 m=+1.267786167
+recevie poll request started 407.917µs
+recevie poll request 2022-06-03 13:21:43.122475 +0700 +07 m=+1.267712959
+recevie poll request started 509.958µs
+recevie poll request 2022-06-03 13:21:43.12257 +0700 +07 m=+1.267808501
+recevie poll request started 439.708µs
+recevie poll request 2022-06-03 13:21:43.122571 +0700 +07 m=+1.267809084
+recevie poll request started 780.042µs
+recevie poll request 2022-06-03 13:21:43.122502 +0700 +07 m=+1.267740626
+recevie poll request started 1.005125ms
+recevie poll request 2022-06-03 13:21:43.122582 +0700 +07 m=+1.267820709
+recevie poll request started 1.00525ms
+recevie poll request 2022-06-03 13:21:43.122586 +0700 +07 m=+1.267824876
+recevie poll request 2022-06-03 13:21:43.1226 +0700 +07 m=+1.267838376
+poll wait time 1.003167ms
+recevie poll request 2022-06-03 13:21:43.122609 +0700 +07 m=+1.267847792
+recevie poll request started 1.124792ms
+recevie poll request 2022-06-03 13:21:43.122471 +0700 +07 m=+1.267709084
+recevie poll request 2022-06-03 13:21:43.122608 +0700 +07 m=+1.267846417
+recevie poll request started 1.177ms
+recevie poll request 2022-06-03 13:21:43.122619 +0700 +07 m=+1.267857209
+recevie poll request started 1.18375ms
+recevie poll request 2022-06-03 13:21:43.122629 +0700 +07 m=+1.267867792
+recevie poll request started 1.189542ms
+recevie poll request started 20.5µs
+recevie poll request 2022-06-03 13:21:43.122512 +0700 +07 m=+1.267750167
+recevie poll request started 1.394792ms
+recevie poll request 2022-06-03 13:21:43.122515 +0700 +07 m=+1.267753792
+recevie poll request started 1.408209ms
+recevie poll request 2022-06-03 13:21:43.122529 +0700 +07 m=+1.267766917
+recevie poll request started 1.42425ms
+recevie poll request 2022-06-03 13:21:43.122533 +0700 +07 m=+1.267771709
+recevie poll request started 1.438417ms
+recevie poll request 2022-06-03 13:21:43.122543 +0700 +07 m=+1.267781292
+recevie poll request started 1.448584ms
+recevie poll request 2022-06-03 13:21:43.122519 +0700 +07 m=+1.267757792
+recevie poll request started 1.487584ms
+recevie poll request 2022-06-03 13:21:43.122672 +0700 +07 m=+1.267910626
+recevie poll request started 1.371625ms
+recevie poll request 2022-06-03 13:21:43.122498 +0700 +07 m=+1.267736626
+recevie poll request started 1.561125ms
+recevie poll request 2022-06-03 13:21:43.122585 +0700 +07 m=+1.267823042
+recevie poll request started 1.490459ms
+recevie poll request 2022-06-03 13:21:43.122561 +0700 +07 m=+1.267799459
+recevie poll request started 1.537708ms
+recevie poll request started 1.056333ms
+recevie poll request 2022-06-03 13:21:43.122613 +0700 +07 m=+1.267851542
+recevie poll request started 1.712084ms
+recevie poll request 2022-06-03 13:21:43.122613 +0700 +07 m=+1.267851042
+recevie poll request started 1.737292ms
+recevie poll request 2022-06-03 13:21:43.122505 +0700 +07 m=+1.267743667
+recevie poll request started 1.864542ms
+recevie poll request started 21.709µs
+recevie poll request 2022-06-03 13:21:43.122558 +0700 +07 m=+1.267796167
+recevie poll request started 1.833334ms
+recevie poll request 2022-06-03 13:21:43.122547 +0700 +07 m=+1.267785626
+recevie poll request 2022-06-03 13:21:43.122578 +0700 +07 m=+1.267816417
+recevie poll request started 1.828584ms
+recevie poll request 2022-06-03 13:21:43.122603 +0700 +07 m=+1.267841876
+recevie poll request started 1.819958ms
+recevie poll request started 1.30425ms
+recevie poll request 2022-06-03 13:21:43.122468 +0700 +07 m=+1.267706876
+recevie poll request started 1.977416ms
+recevie poll request started 1.853416ms
+recevie poll request started 374.167µs
+recevie poll request started 1.028ms
+recevie poll request 2022-06-03 13:21:43.122622 +0700 +07 m=+1.267860167
+recevie poll request 2022-06-03 13:21:43.122484 +0700 +07 m=+1.267722417
+recevie poll request started 1.989875ms
+recevie poll request started 1.846584ms
+poll wait time 2.097959ms
+poll wait time 3.007625ms
+poll wait time 4.706667ms
+poll wait time 4.831292ms
+poll wait time 5.835333ms
+poll wait time 6.795292ms
+poll wait time 7.872333ms
+poll wait time 8.829375ms
+poll wait time 9.807917ms
+poll wait time 10.804084ms
+poll wait time 11.767916ms
+poll wait time 13.35125ms
+poll wait time 13.59725ms
+poll wait time 15.271ms
+poll wait time 15.339459ms
+poll wait time 16.29625ms
+poll wait time 17.153666ms
+poll wait time 18.051958ms
+poll wait time 18.915958ms
+poll wait time 19.843917ms
+poll wait time 20.834708ms
+poll wait time 21.814333ms
+poll wait time 22.76875ms
+poll wait time 23.724125ms
+poll wait time 24.711375ms
+poll wait time 25.680042ms
+poll wait time 26.659375ms
+poll wait time 27.641625ms
+poll wait time 28.607125ms
+poll wait time 29.590667ms
+poll wait time 30.607166ms
+poll wait time 31.583875ms
+poll wait time 32.551667ms
+poll wait time 33.522542ms
+poll wait time 34.316834ms
+poll wait time 35.293875ms
+poll wait time 36.254084ms
+poll wait time 37.242292ms
+poll wait time 38.268916ms
+poll wait time 39.240667ms
+poll wait time 40.216583ms
+poll wait time 41.205042ms
+poll wait time 42.188791ms
+poll wait time 43.185ms
+poll wait time 44.179458ms
+poll wait time 45.171209ms
+poll wait time 46.162917ms
+poll wait time 47.171792ms
+2022/06/03 13:21:43 INFO  Started Worker Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@
+recevie poll request 2022-06-03 13:21:43.488935 +0700 +07 m=+1.634183084
+recevie poll request 2022-06-03 13:21:43.488955 +0700 +07 m=+1.634202584
+recevie poll request 2022-06-03 13:21:43.488967 +0700 +07 m=+1.634214834
+recevie poll request 2022-06-03 13:21:43.488989 +0700 +07 m=+1.634237126
+recevie poll request 2022-06-03 13:21:43.489003 +0700 +07 m=+1.634250626
+recevie poll request started 10µs
+recevie poll request 2022-06-03 13:21:43.489016 +0700 +07 m=+1.634264334
+recevie poll request 2022-06-03 13:21:43.489033 +0700 +07 m=+1.634281376
+recevie poll request started 12.75µs
+recevie poll request 2022-06-03 13:21:43.488959 +0700 +07 m=+1.634207001
+recevie poll request started 101.083µs
+recevie poll request 2022-06-03 13:21:43.489046 +0700 +07 m=+1.634293459
+recevie poll request started 89.375µs
+recevie poll request 2022-06-03 13:21:43.488979 +0700 +07 m=+1.634227376
+recevie poll request started 174.666µs
+recevie poll request 2022-06-03 13:21:43.488969 +0700 +07 m=+1.634216709
+recevie poll request started 202.125µs
+recevie poll request started 21.333µs
+recevie poll request 2022-06-03 13:21:43.488983 +0700 +07 m=+1.634231001
+recevie poll request started 198.333µs
+recevie poll request started 23.5µs
+recevie poll request 2022-06-03 13:21:43.488939 +0700 +07 m=+1.634186959
+recevie poll request started 252.042µs
+recevie poll request 2022-06-03 13:21:43.488994 +0700 +07 m=+1.634241542
+recevie poll request started 202.625µs
+recevie poll request 2022-06-03 13:21:43.488998 +0700 +07 m=+1.634246251
+recevie poll request started 203.125µs
+recevie poll request started 14.916µs
+recevie poll request 2022-06-03 13:21:43.488944 +0700 +07 m=+1.634192376
+recevie poll request started 268.416µs
+recevie poll request 2022-06-03 13:21:43.488997 +0700 +07 m=+1.634245334
+recevie poll request started 220.667µs
+recevie poll request 2022-06-03 13:21:43.489006 +0700 +07 m=+1.634254292
+recevie poll request started 225.084µs
+recevie poll request 2022-06-03 13:21:43.489009 +0700 +07 m=+1.634257001
+recevie poll request started 227.5µs
+recevie poll request 2022-06-03 13:21:43.489009 +0700 +07 m=+1.634256626
+recevie poll request started 233.25µs
+recevie poll request 2022-06-03 13:21:43.489241 +0700 +07 m=+1.634488542
+recevie poll request started 30.584µs
+poll wait time 3.041µs
+recevie poll request 2022-06-03 13:21:43.488962 +0700 +07 m=+1.634210167
+recevie poll request started 403.5µs
+recevie poll request 2022-06-03 13:21:43.489015 +0700 +07 m=+1.634262876
+recevie poll request started 376µs
+recevie poll request 2022-06-03 13:21:43.489031 +0700 +07 m=+1.634279042
+recevie poll request started 369.709µs
+recevie poll request 2022-06-03 13:21:43.488946 +0700 +07 m=+1.634193542
+recevie poll request started 460.959µs
+recevie poll request 2022-06-03 13:21:43.489011 +0700 +07 m=+1.634259209
+recevie poll request started 406.875µs
+recevie poll request 2022-06-03 13:21:43.489053 +0700 +07 m=+1.634300792
+recevie poll request started 375.334µs
+recevie poll request 2022-06-03 13:21:43.489065 +0700 +07 m=+1.634312542
+recevie poll request started 369.292µs
+recevie poll request 2022-06-03 13:21:43.48897 +0700 +07 m=+1.634217751
+recevie poll request started 468.791µs
+recevie poll request 2022-06-03 13:21:43.489021 +0700 +07 m=+1.634268834
+recevie poll request started 422.125µs
+recevie poll request 2022-06-03 13:21:43.488979 +0700 +07 m=+1.634226626
+recevie poll request 2022-06-03 13:21:43.489022 +0700 +07 m=+1.634270251
+recevie poll request started 430.833µs
+recevie poll request 2022-06-03 13:21:43.489001 +0700 +07 m=+1.634248667
+recevie poll request started 459.917µs
+recevie poll request 2022-06-03 13:21:43.489005 +0700 +07 m=+1.634253334
+recevie poll request started 462.75µs
+recevie poll request 2022-06-03 13:21:43.488986 +0700 +07 m=+1.634233709
+recevie poll request 2022-06-03 13:21:43.489489 +0700 +07 m=+1.634736459
+recevie poll request started 13.5µs
+recevie poll request 2022-06-03 13:21:43.488981 +0700 +07 m=+1.634228459
+recevie poll request started 529.458µs
+recevie poll request 2022-06-03 13:21:43.488989 +0700 +07 m=+1.634237334
+recevie poll request started 528.833µs
+recevie poll request started 534.125µs
+recevie poll request 2022-06-03 13:21:43.48903 +0700 +07 m=+1.634277751
+recevie poll request 2022-06-03 13:21:43.488986 +0700 +07 m=+1.634233917
+recevie poll request started 560µs
+recevie poll request 2022-06-03 13:21:43.489559 +0700 +07 m=+1.634807251
+recevie poll request started 12.541µs
+recevie poll request 2022-06-03 13:21:43.489217 +0700 +07 m=+1.634464667
+recevie poll request started 403.209µs
+recevie poll request 2022-06-03 13:21:43.489038 +0700 +07 m=+1.634286001
+recevie poll request started 589.25µs
+recevie poll request 2022-06-03 13:21:43.488971 +0700 +07 m=+1.634218667
+recevie poll request 2022-06-03 13:21:43.488966 +0700 +07 m=+1.634213792
+recevie poll request started 940.917µs
+recevie poll request 2022-06-03 13:21:43.488991 +0700 +07 m=+1.634239042
+recevie poll request started 935.125µs
+poll wait time 3.958µs
+recevie poll request 2022-06-03 13:21:43.489007 +0700 +07 m=+1.634254834
+recevie poll request 2022-06-03 13:21:43.490047 +0700 +07 m=+1.635294667
+recevie poll request started 28.042µs
+recevie poll request 2022-06-03 13:21:43.488995 +0700 +07 m=+1.634243167
+recevie poll request started 1.001375ms
+recevie poll request 2022-06-03 13:21:43.489548 +0700 +07 m=+1.634796334
+recevie poll request started 557.958µs
+recevie poll request 2022-06-03 13:21:43.489027 +0700 +07 m=+1.634275292
+recevie poll request started 1.089625ms
+recevie poll request 2022-06-03 13:21:43.489581 +0700 +07 m=+1.634829042
+recevie poll request started 554.167µs
+recevie poll request started 912.167µs
+recevie poll request 2022-06-03 13:21:43.489063 +0700 +07 m=+1.634310626
+recevie poll request started 499.041µs
+recevie poll request 2022-06-03 13:21:43.488953 +0700 +07 m=+1.634200459
+recevie poll request 2022-06-03 13:21:43.489017 +0700 +07 m=+1.634265209
+recevie poll request started 1.27525ms
+recevie poll request started 1.222958ms
+recevie poll request started 29.5µs
+recevie poll request started 19.167µs
+recevie poll request started 469.083µs
+recevie poll request 2022-06-03 13:21:43.489604 +0700 +07 m=+1.634851709
+recevie poll request started 663.542µs
+2022/06/03 13:21:43 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 87564154-e301-11ec-8f13-3e4fde57a633-185348 RunID da8c90cf-2ef8-488a-9e59-af4678af5c20 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:43 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 860a0bc8-e301-11ec-8f0d-3e4fde57a633-183787 RunID b070a4de-8ca1-4fc7-8890-5048bd16ee88 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request started 1.089042ms
+poll wait time 799.25µs
+poll wait time 1.201625ms
+recevie poll request started 1.099125ms
+2022/06/03 13:21:43 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 82359de6-e301-11ec-8ee6-3e4fde57a633-173688 RunID b2b72917-1185-4424-b123-2412fd441e2b Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:43.489026 +0700 +07 m=+1.634274126
+2022/06/03 13:21:43 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 7dc1700a-e301-11ec-8eaa-3e4fde57a633-161795 RunID 2d99b54c-4427-4cf1-8d4a-885bb3ba318a Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request started 1.381416ms
+2022/06/03 13:21:43 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 686d3072-e301-11ec-8cf2-3e4fde57a633-101315 RunID 0655bd93-abd9-4dcf-af1a-74f39689199a Attempt 1 TimerID 13 Duration 10s
+recevie poll request 2022-06-03 13:21:43.489012 +0700 +07 m=+1.634259542
+recevie poll request started 1.646125ms
+2022/06/03 13:21:43 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 82005ad2-e301-11ec-8ee6-3e4fde57a633-173247 RunID 213371e8-781d-49aa-8307-10a978ccfe98 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:43 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 851e5cf0-e301-11ec-8f05-3e4fde57a633-181825 RunID b9d60d8f-1c10-45a1-ade6-3f3494f2229f Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:43 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8817bde8-e301-11ec-8f1d-3e4fde57a633-186835 RunID 4f1bb621-fb4a-464f-b297-01135b21d6e1 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+poll wait time 2.005459ms
+poll wait time 1.730167ms
+poll wait time 3.007833ms
+poll wait time 2.726ms
+poll wait time 3.945167ms
+poll wait time 3.318167ms
+poll wait time 4.950834ms
+poll wait time 4.218375ms
+poll wait time 5.873667ms
+poll wait time 5.1945ms
+poll wait time 6.913ms
+poll wait time 6.096333ms
+poll wait time 7.977292ms
+poll wait time 8.933375ms
+poll wait time 9.879459ms
+poll wait time 10.887083ms
+poll wait time 11.922917ms
+poll wait time 12.952417ms
+poll wait time 13.877583ms
+poll wait time 14.894583ms
+poll wait time 15.859583ms
+poll wait time 16.94475ms
+poll wait time 17.832542ms
+poll wait time 18.75175ms
+poll wait time 19.746875ms
+poll wait time 20.7435ms
+poll wait time 21.7375ms
+poll wait time 22.721417ms
+poll wait time 23.753583ms
+poll wait time 24.71675ms
+poll wait time 25.722041ms
+poll wait time 26.6915ms
+poll wait time 27.694583ms
+poll wait time 28.685917ms
+poll wait time 29.66825ms
+poll wait time 30.667ms
+poll wait time 31.637875ms
+poll wait time 32.590792ms
+poll wait time 33.2985ms
+poll wait time 34.25625ms
+poll wait time 35.200542ms
+poll wait time 36.098041ms
+poll wait time 37.068625ms
+poll wait time 38.040333ms
+poll wait time 38.963208ms
+poll wait time 39.909958ms
+poll wait time 40.931166ms
+poll wait time 41.902875ms
+poll wait time 42.915625ms
+poll wait time 43.940708ms
+poll wait time 44.862875ms
+poll wait time 45.792583ms
+poll wait time 46.532958ms
+poll wait time 47.496792ms
+recevie poll request 2022-06-03 13:21:43.642096 +0700 +07 m=+1.787348126
+recevie poll request started 31.791µs
+poll wait time 1.958µs
+recevie poll request 2022-06-03 13:21:43.642212 +0700 +07 m=+1.787463751
+recevie poll request started 9.666µs
+recevie poll request 2022-06-03 13:21:43.642235 +0700 +07 m=+1.787486417
+recevie poll request started 6µs
+recevie poll request 2022-06-03 13:21:43.642251 +0700 +07 m=+1.787503167
+recevie poll request started 5.875µs
+recevie poll request 2022-06-03 13:21:43.642274 +0700 +07 m=+1.787525834
+recevie poll request started 10.208µs
+recevie poll request 2022-06-03 13:21:43.642313 +0700 +07 m=+1.787564792
+recevie poll request started 17.459µs
+2022/06/03 13:21:43 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8ad2c488-e301-11ec-8f80-3e4fde57a633-191900 RunID 4cdb7621-7ae1-4c57-b92b-77485abc5416 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:43 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8bdd2fbc-e301-11ec-8f99-3e4fde57a633-193401 RunID 043d1783-ae42-4d70-b5ef-85b0e73d0b1d Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:43.642448 +0700 +07 m=+1.787700251
+recevie poll request started 8.541µs
+2022/06/03 13:21:43 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 7ed00f6a-e301-11ec-8eb5-3e4fde57a633-164299 RunID d1017eae-d68f-47c7-9958-e39928d085e5 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:43 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 90e408c8-e301-11ec-9021-3e4fde57a633-207224 RunID 35fba819-93aa-4c17-afc0-fdba1e19452e Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:43 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 897dbf48-e301-11ec-8f77-3e4fde57a633-190273 RunID 4a072643-3feb-495a-be80-b43d24d2a272 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:43 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 85bd0792-e301-11ec-8f0b-3e4fde57a633-183316 RunID bde3ef2c-aca6-451c-bda4-68abb541b477 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:43 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 88ee6ae6-e301-11ec-8f66-3e4fde57a633-188757 RunID 060805bb-aac8-444d-9a08-5b3331aa5825 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+poll wait time 1.025375ms
+poll wait time 2.044125ms
+poll wait time 3.030667ms
+poll wait time 3.994458ms
+poll wait time 4.946709ms
+poll wait time 5.817083ms
+recevie poll request 2022-06-03 13:21:43.806571 +0700 +07 m=+1.951827251
+recevie poll request started 24.458µs
+poll wait time 1.709µs
+process activity elapsed 317.234ms
+process activity elapsed 317.5455ms
+process activity elapsed 317.205959ms
+process activity elapsed 317.588208ms
+process activity elapsed 316.929084ms
+process activity elapsed 317.365792ms
+recevie poll request 2022-06-03 13:21:43.806934 +0700 +07 m=+1.952190376
+recevie poll request started 9.833µs
+poll wait time 583ns
+recevie poll request 2022-06-03 13:21:43.806999 +0700 +07 m=+1.952255542
+recevie poll request started 4.709µs
+recevie poll request 2022-06-03 13:21:43.807031 +0700 +07 m=+1.952287501
+recevie poll request started 14.833µs
+recevie poll request 2022-06-03 13:21:43.807053 +0700 +07 m=+1.952309251
+recevie poll request started 3.791µs
+recevie poll request 2022-06-03 13:21:43.807062 +0700 +07 m=+1.952317667
+recevie poll request started 3.459µs
+2022/06/03 13:21:43 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8a5e5012-e301-11ec-8f80-3e4fde57a633-191135 RunID 5195d77f-cc95-4640-9be4-6e5d4463830d Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:43 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 920a9ce4-e301-11ec-902e-3e4fde57a633-210113 RunID 98c1e30f-2680-488e-ad90-cccd39e200c9 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:43 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 827c04c0-e301-11ec-8ee9-3e4fde57a633-174798 RunID 5098193e-07dc-4294-bbf0-54c12a3bacca Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:43.807184 +0700 +07 m=+1.952440167
+recevie poll request started 8.792µs
+2022/06/03 13:21:43 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 894398e0-e301-11ec-8f6d-3e4fde57a633-189531 RunID 448f52fa-e77b-4076-b34e-24cbc6aeabee Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:43 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8e5037a8-e301-11ec-8fbe-3e4fde57a633-199863 RunID 1ee944e2-9458-49f0-ba5c-4f337d642c67 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:43 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8e43dae4-e301-11ec-8fbe-3e4fde57a633-199666 RunID d081d1d2-221f-427b-80e6-879a85b0aff5 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+poll wait time 816.625µs
+poll wait time 1.895875ms
+poll wait time 2.645583ms
+poll wait time 3.750458ms
+poll wait time 4.632666ms
+process activity elapsed 515.0855ms
+process activity elapsed 362.652041ms
+process activity elapsed 362.774333ms
+recevie poll request 2022-06-03 13:21:44.0051 +0700 +07 m=+2.150360917
+recevie poll request started 11.084µs
+poll wait time 583ns
+process activity elapsed 515.544375ms
+process activity elapsed 362.650166ms
+2022/06/03 13:21:44 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 845c259a-e301-11ec-8eef-3e4fde57a633-179699 RunID 1fc800b9-b550-47ed-80e0-035001ebca92 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+process activity elapsed 363.243583ms
+recevie poll request 2022-06-03 13:21:44.005543 +0700 +07 m=+2.150804626
+recevie poll request started 6.833µs
+recevie poll request 2022-06-03 13:21:44.005557 +0700 +07 m=+2.150817917
+recevie poll request started 5.459µs
+poll wait time 625ns
+2022/06/03 13:21:44 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID ea0ebbc8-e301-11ec-92c2-3e4fde57a633-409032 RunID aff15766-4a0d-435e-a9de-da108e854d38 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+process activity elapsed 363.101625ms
+recevie poll request 2022-06-03 13:21:44.005598 +0700 +07 m=+2.150859084
+recevie poll request started 7.083µs
+recevie poll request 2022-06-03 13:21:44.005615 +0700 +07 m=+2.150876292
+recevie poll request started 7.375µs
+recevie poll request 2022-06-03 13:21:44.005618 +0700 +07 m=+2.150879001
+recevie poll request started 12.333µs
+2022/06/03 13:21:44 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8fa8abee-e301-11ec-900f-3e4fde57a633-203982 RunID 5ab4426e-a83f-43cb-b962-da32fe5adb75 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+process activity elapsed 363.199584ms
+2022/06/03 13:21:44 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 81df1444-e301-11ec-8ee5-3e4fde57a633-172528 RunID 46313a28-1376-4533-b65e-69eeb7805845 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:44.005696 +0700 +07 m=+2.150957126
+recevie poll request started 18.541µs
+recevie poll request 2022-06-03 13:21:44.005735 +0700 +07 m=+2.150996792
+recevie poll request started 14.25µs
+2022/06/03 13:21:44 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 897d846a-e301-11ec-8f77-3e4fde57a633-190254 RunID 22199ab3-7268-4d2f-b797-f95c8dad8870 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:44 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 7e20d3d8-e301-11ec-8eb2-3e4fde57a633-163139 RunID 2bf46a55-7206-46a7-8be2-229ef4677fdd Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+poll wait time 645.125µs
+poll wait time 1.008417ms
+poll wait time 1.616333ms
+poll wait time 2.672541ms
+poll wait time 3.5305ms
+poll wait time 4.486334ms
+recevie poll request 2022-06-03 13:21:44.103887 +0700 +07 m=+2.249150751
+recevie poll request started 23.083µs
+poll wait time 667ns
+2022/06/03 13:21:44 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 81b8ab7e-e301-11ec-8ee5-3e4fde57a633-172318 RunID 4aed0499-2519-4237-b3a5-1b4bd6ff2fa4 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:44.106614 +0700 +07 m=+2.251877626
+recevie poll request started 10.25µs
+poll wait time 708ns
+process activity elapsed 464.317209ms
+recevie poll request 2022-06-03 13:21:44.106748 +0700 +07 m=+2.252012251
+recevie poll request started 6.458µs
+recevie poll request 2022-06-03 13:21:44.106762 +0700 +07 m=+2.252025376
+recevie poll request started 4.625µs
+recevie poll request 2022-06-03 13:21:44.106772 +0700 +07 m=+2.252035542
+recevie poll request started 6.875µs
+recevie poll request 2022-06-03 13:21:44.106789 +0700 +07 m=+2.252053251
+recevie poll request started 6.5µs
+2022/06/03 13:21:44 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8bdd2fbc-e301-11ec-8f99-3e4fde57a633-193401 RunID 043d1783-ae42-4d70-b5ef-85b0e73d0b1d Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:44 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8adaa004-e301-11ec-8f80-3e4fde57a633-191979 RunID 7d516190-26d8-497e-9f7c-eb8e37eb5449 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:44 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8adaa2de-e301-11ec-8f80-3e4fde57a633-191983 RunID d6171328-2402-45eb-9b70-60051c39c05e Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:44.106924 +0700 +07 m=+2.252188167
+recevie poll request started 63.125µs
+2022/06/03 13:21:44 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 873644d0-e301-11ec-8f0f-3e4fde57a633-185178 RunID 54c4ff39-18d1-4984-9362-6e20001b00fb Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:44 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 82359de6-e301-11ec-8ee6-3e4fde57a633-173688 RunID b2b72917-1185-4424-b123-2412fd441e2b Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:44 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8653e00e-e301-11ec-8f0d-3e4fde57a633-184457 RunID 3dbf9f32-ce9e-409d-bec4-4d96d3b696a8 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+poll wait time 1.052625ms
+poll wait time 1.904583ms
+poll wait time 3.061625ms
+poll wait time 3.960625ms
+poll wait time 4.783ms
+recevie poll request 2022-06-03 13:21:44.208869 +0700 +07 m=+2.354135251
+recevie poll request started 19.458µs
+poll wait time 1µs
+recevie poll request 2022-06-03 13:21:44.208945 +0700 +07 m=+2.354211501
+recevie poll request started 15.708µs
+2022/06/03 13:21:44 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 88ee6ae6-e301-11ec-8f66-3e4fde57a633-188757 RunID 060805bb-aac8-444d-9a08-5b3331aa5825 Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:44 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8817bde8-e301-11ec-8f1d-3e4fde57a633-186835 RunID 4f1bb621-fb4a-464f-b297-01135b21d6e1 Attempt 1 TimerID 11 Duration 10s
+poll wait time 1.07675ms
+recevie poll request 2022-06-03 13:21:44.216232 +0700 +07 m=+2.361498959
+recevie poll request started 12.833µs
+poll wait time 708ns
+recevie poll request 2022-06-03 13:21:44.216264 +0700 +07 m=+2.361530709
+recevie poll request started 12.917µs
+poll wait time 875ns
+process activity elapsed 409.072667ms
+2022/06/03 13:21:44 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 851e5cf0-e301-11ec-8f05-3e4fde57a633-181825 RunID b9d60d8f-1c10-45a1-ade6-3f3494f2229f Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:44.216318 +0700 +07 m=+2.361584626
+recevie poll request started 59.75µs
+2022/06/03 13:21:44 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 82005ad2-e301-11ec-8ee6-3e4fde57a633-173247 RunID 213371e8-781d-49aa-8307-10a978ccfe98 Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:44 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8943919c-e301-11ec-8f6d-3e4fde57a633-189506 RunID 82184dcf-cfec-4e05-83bd-3f0bf3595188 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:44.216315 +0700 +07 m=+2.361581251
+recevie poll request started 128.75µs
+2022/06/03 13:21:44 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 88b24822-e301-11ec-8f5b-3e4fde57a633-188080 RunID e741189a-701e-42ee-bea6-f29fadec1a44 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:44.216276 +0700 +07 m=+2.361542876
+recevie poll request started 223.708µs
+poll wait time 1.154417ms
+poll wait time 1.924333ms
+poll wait time 2.900833ms
+process activity elapsed 513.002ms
+process activity elapsed 711.489333ms
+process activity elapsed 513.592083ms
+process activity elapsed 574.453666ms
+process activity elapsed 574.367375ms
+recevie poll request 2022-06-03 13:21:44.580083 +0700 +07 m=+2.725358917
+recevie poll request started 19.209µs
+poll wait time 1.125µs
+recevie poll request 2022-06-03 13:21:44.580137 +0700 +07 m=+2.725413459
+recevie poll request started 11.375µs
+poll wait time 916ns
+recevie poll request 2022-06-03 13:21:44.580091 +0700 +07 m=+2.725366626
+recevie poll request started 111.833µs
+recevie poll request 2022-06-03 13:21:44.580196 +0700 +07 m=+2.725471626
+recevie poll request started 25.875µs
+2022/06/03 13:21:44 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 81df8ac8-e301-11ec-8ee6-3e4fde57a633-172595 RunID 097d1244-fdc2-4289-9672-70d8d915a294 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:44.580246 +0700 +07 m=+2.725521626
+recevie poll request started 14.125µs
+2022/06/03 13:21:44 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8fa8abee-e301-11ec-900f-3e4fde57a633-203982 RunID 5ab4426e-a83f-43cb-b962-da32fe5adb75 Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:44 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 84639b54-e301-11ec-8eef-3e4fde57a633-179882 RunID 974aa544-1b34-4900-aa18-a71b8f91cf42 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:44 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 7c4abde4-e301-11ec-8e78-3e4fde57a633-156821 RunID b6edd8f5-eccf-4ccf-b2ce-570087801088 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+poll wait time 1.140291ms
+poll wait time 2.07075ms
+poll wait time 3.043625ms
+recevie poll request 2022-06-03 13:21:44.75466 +0700 +07 m=+2.899940667
+recevie poll request started 32.792µs
+poll wait time 1.375µs
+process activity elapsed 749.18775ms
+process activity elapsed 749.237375ms
+process activity elapsed 749.139959ms
+process activity elapsed 947.786875ms
+process activity elapsed 947.821291ms
+process activity elapsed 947.735833ms
+process activity elapsed 947.931125ms
+process activity elapsed 947.92175ms
+process activity elapsed 749.477458ms
+recevie poll request 2022-06-03 13:21:44.755052 +0700 +07 m=+2.900332959
+recevie poll request started 17.375µs
+recevie poll request 2022-06-03 13:21:44.755085 +0700 +07 m=+2.900365167
+recevie poll request started 8.167µs
+recevie poll request 2022-06-03 13:21:44.755853 +0700 +07 m=+2.901134042
+recevie poll request started 30.375µs
+recevie poll request 2022-06-03 13:21:44.756126 +0700 +07 m=+2.901406334
+recevie poll request started 50.875µs
+poll wait time 1.215666ms
+poll wait time 1.905042ms
+poll wait time 2.101541ms
+poll wait time 2.665541ms
+recevie poll request 2022-06-03 13:21:44.814405 +0700 +07 m=+2.959686751
+recevie poll request started 25.833µs
+poll wait time 2.084µs
+recevie poll request 2022-06-03 13:21:44.814503 +0700 +07 m=+2.959784917
+recevie poll request started 32.292µs
+recevie poll request 2022-06-03 13:21:44.814592 +0700 +07 m=+2.959874417
+recevie poll request started 31.167µs
+poll wait time 1.077916ms
+poll wait time 1.874458ms
+recevie poll request 2022-06-03 13:21:44.822118 +0700 +07 m=+2.967400167
+recevie poll request started 32.584µs
+poll wait time 1.875µs
+recevie poll request 2022-06-03 13:21:44.82213 +0700 +07 m=+2.967411959
+recevie poll request started 184.708µs
+poll wait time 1.125µs
+recevie poll request 2022-06-03 13:21:44.822379 +0700 +07 m=+2.967661209
+recevie poll request started 31.5µs
+2022/06/03 13:21:44 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 827bd9a0-e301-11ec-8ee9-3e4fde57a633-174740 RunID 8fee3aa1-c98d-4bb8-a14c-a74cdd7cde72 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:44 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 83504190-e301-11ec-8eec-3e4fde57a633-177304 RunID 3e5edb0f-f21f-4c8d-91f8-260e106d701c Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+poll wait time 912.917µs
+process activity elapsed 719.240792ms
+process activity elapsed 609.893709ms
+recevie poll request 2022-06-03 13:21:44.826187 +0700 +07 m=+2.971469334
+recevie poll request started 32.583µs
+poll wait time 1.417µs
+recevie poll request 2022-06-03 13:21:44.826334 +0700 +07 m=+2.971616376
+recevie poll request started 17.458µs
+2022/06/03 13:21:44 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 860a0bc8-e301-11ec-8f0d-3e4fde57a633-183787 RunID b070a4de-8ca1-4fc7-8890-5048bd16ee88 Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:44 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 85bd0792-e301-11ec-8f0b-3e4fde57a633-183316 RunID bde3ef2c-aca6-451c-bda4-68abb541b477 Attempt 1 TimerID 11 Duration 10s
+poll wait time 1.128416ms
+recevie poll request 2022-06-03 13:21:45.232527 +0700 +07 m=+3.377820209
+recevie poll request started 54.208µs
+poll wait time 4.166µs
+process activity elapsed 1.023821792s
+recevie poll request 2022-06-03 13:21:45.232797 +0700 +07 m=+3.378089626
+recevie poll request started 15.791µs
+poll wait time 1.125µs
+process activity elapsed 1.126171875s
+process activity elapsed 1.016691875s
+process activity elapsed 1.129131583s
+recevie poll request 2022-06-03 13:21:45.23301 +0700 +07 m=+3.378303042
+recevie poll request started 82.375µs
+2022/06/03 13:21:45 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 7e20d3d8-e301-11ec-8eb2-3e4fde57a633-163139 RunID 2bf46a55-7206-46a7-8be2-229ef4677fdd Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:45.233219 +0700 +07 m=+3.378512459
+recevie poll request started 42.042µs
+2022/06/03 13:21:45 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 91b6031e-e301-11ec-9026-3e4fde57a633-209877 RunID 6fc67e03-4e92-4d12-881b-4350994612c3 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:45 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 82de1ff2-e301-11ec-8eeb-3e4fde57a633-175956 RunID 3ee27573-9f14-4b59-b80e-8d97ef6bdad0 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:45.233414 +0700 +07 m=+3.378706876
+recevie poll request started 12.875µs
+2022/06/03 13:21:45 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 82002134-e301-11ec-8ee6-3e4fde57a633-173191 RunID f4133a3b-dcb6-4de2-a72d-3f1c860dd8a9 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+process activity elapsed 1.017253042s
+recevie poll request 2022-06-03 13:21:45.233072 +0700 +07 m=+3.378365042
+recevie poll request started 481µs
+process activity elapsed 1.017326542s
+process activity elapsed 1.024730458s
+process activity elapsed 1.017359709s
+2022/06/03 13:21:45 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 87fd0f84-e301-11ec-8f1c-3e4fde57a633-186655 RunID ec1f438f-d452-4868-8cfe-dad5abaf8157 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:45.233791 +0700 +07 m=+3.379083667
+recevie poll request started 21.209µs
+poll wait time 417ns
+poll wait time 726.125µs
+2022/06/03 13:21:45 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 90e408c8-e301-11ec-9021-3e4fde57a633-207224 RunID 35fba819-93aa-4c17-afc0-fdba1e19452e Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:45.23368 +0700 +07 m=+3.378973459
+recevie poll request started 283.25µs
+recevie poll request 2022-06-03 13:21:45.234141 +0700 +07 m=+3.379434042
+recevie poll request started 12.042µs
+poll wait time 1.470375ms
+poll wait time 2.508708ms
+poll wait time 2.410791ms
+poll wait time 3.436167ms
+poll wait time 3.972083ms
+recevie poll request 2022-06-03 13:21:45.320695 +0700 +07 m=+3.465990459
+recevie poll request started 241.875µs
+poll wait time 2.958µs
+recevie poll request 2022-06-03 13:21:45.321673 +0700 +07 m=+3.466968126
+recevie poll request started 23µs
+poll wait time 1.333µs
+process activity elapsed 741.77975ms
+process activity elapsed 741.752208ms
+recevie poll request 2022-06-03 13:21:45.322054 +0700 +07 m=+3.467349001
+recevie poll request started 18.833µs
+recevie poll request 2022-06-03 13:21:45.322093 +0700 +07 m=+3.467388292
+recevie poll request started 17.875µs
+recevie poll request 2022-06-03 13:21:45.322261 +0700 +07 m=+3.467556167
+recevie poll request started 21.334µs
+recevie poll request 2022-06-03 13:21:45.322304 +0700 +07 m=+3.467599042
+recevie poll request started 16.25µs
+poll wait time 253.583µs
+recevie poll request 2022-06-03 13:21:45.322673 +0700 +07 m=+3.467968501
+recevie poll request started 21.25µs
+poll wait time 431.458µs
+recevie poll request 2022-06-03 13:21:45.322778 +0700 +07 m=+3.468072876
+recevie poll request started 6.541µs
+2022/06/03 13:21:45 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8170ab94-e301-11ec-8ee3-3e4fde57a633-172123 RunID bd97b648-c205-4453-a852-277a23ac5152 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:45 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 87564154-e301-11ec-8f13-3e4fde57a633-185348 RunID da8c90cf-2ef8-488a-9e59-af4678af5c20 Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:45.322925 +0700 +07 m=+3.468220251
+recevie poll request started 5.625µs
+2022/06/03 13:21:45 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8bc38c42-e301-11ec-8f99-3e4fde57a633-193213 RunID 26bce158-b262-451d-8145-21534ec8a69a Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:45 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 88da1460-e301-11ec-8f66-3e4fde57a633-188615 RunID 4afad55d-d71e-44af-b6b9-6542c7545bb1 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:45 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 7ccf47c6-e301-11ec-8e86-3e4fde57a633-158731 RunID b3ff42f8-b85a-46b0-b082-3c0487e46eb1 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:45.323206 +0700 +07 m=+3.468501334
+recevie poll request started 9.417µs
+poll wait time 1.333916ms
+poll wait time 1.507042ms
+poll wait time 1.767542ms
+poll wait time 1.833459ms
+poll wait time 2.643833ms
+poll wait time 2.582167ms
+process activity elapsed 946.595083ms
+recevie poll request 2022-06-03 13:21:45.526797 +0700 +07 m=+3.672097834
+recevie poll request started 25.417µs
+poll wait time 6.875µs
+recevie poll request 2022-06-03 13:21:45.526833 +0700 +07 m=+3.672134042
+recevie poll request started 47.584µs
+poll wait time 2.917µs
+process activity elapsed 946.843667ms
+process activity elapsed 946.75625ms
+process activity elapsed 771.839833ms
+recevie poll request 2022-06-03 13:21:45.526983 +0700 +07 m=+3.672283917
+recevie poll request started 9.917µs
+2022/06/03 13:21:45 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8ad2c488-e301-11ec-8f80-3e4fde57a633-191900 RunID 4cdb7621-7ae1-4c57-b92b-77485abc5416 Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:45 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 7dc1700a-e301-11ec-8eaa-3e4fde57a633-161795 RunID 2d99b54c-4427-4cf1-8d4a-885bb3ba318a Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:45.527089 +0700 +07 m=+3.672389251
+recevie poll request started 23.333µs
+recevie poll request 2022-06-03 13:21:45.527235 +0700 +07 m=+3.672536042
+recevie poll request started 10.75µs
+2022/06/03 13:21:45 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 896c09d8-e301-11ec-8f6e-3e4fde57a633-189865 RunID 0de13bf9-2031-4f7e-84f1-5363758d8293 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+process activity elapsed 770.795625ms
+process activity elapsed 770.955292ms
+recevie poll request 2022-06-03 13:21:45.527353 +0700 +07 m=+3.672653209
+recevie poll request started 14.375µs
+process activity elapsed 771.159084ms
+poll wait time 1.218667ms
+poll wait time 1.43ms
+poll wait time 1.731459ms
+poll wait time 1.620209ms
+recevie poll request 2022-06-03 13:21:46.319905 +0700 +07 m=+4.465225709
+recevie poll request started 188.958µs
+poll wait time 9.625µs
+recevie poll request 2022-06-03 13:21:46.320696 +0700 +07 m=+4.466017292
+recevie poll request started 27.959µs
+2022/06/03 13:21:46 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 81e88646-e301-11ec-8ee6-3e4fde57a633-172858 RunID cd685771-11af-4dca-9d54-9ba2ae143bad Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+poll wait time 500.625µs
+2022/06/03 13:21:46 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 827c04c0-e301-11ec-8ee9-3e4fde57a633-174798 RunID 5098193e-07dc-4294-bbf0-54c12a3bacca Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:46.540111 +0700 +07 m=+4.685437667
+recevie poll request started 97.334µs
+poll wait time 4.292µs
+process activity elapsed 1.784196958s
+process activity elapsed 1.725945667s
+recevie poll request 2022-06-03 13:21:46.540517 +0700 +07 m=+4.685843292
+recevie poll request started 12.125µs
+2022/06/03 13:21:46 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 88174340-e301-11ec-8f1c-3e4fde57a633-186709 RunID 253067b4-ed0a-4750-9268-b3c6a061828d Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:46 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 86014614-e301-11ec-8f0c-3e4fde57a633-183630 RunID 3fb33bba-2f28-4ef1-8bde-11c64d9a9669 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:46 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 794f841c-e301-11ec-8e38-3e4fde57a633-147786 RunID 3f4725b8-10ae-4798-9754-dfc131cbcc40 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:46.541208 +0700 +07 m=+4.686535001
+recevie poll request started 15.708µs
+poll wait time 699.042µs
+poll wait time 1.683542ms
+recevie poll request 2022-06-03 13:21:46.636202 +0700 +07 m=+4.781530834
+recevie poll request started 184.417µs
+poll wait time 4.792µs
+recevie poll request 2022-06-03 13:21:46.636789 +0700 +07 m=+4.782118376
+recevie poll request started 27.041µs
+poll wait time 2µs
+process activity elapsed 1.814824084s
+process activity elapsed 1.81070775s
+process activity elapsed 1.82268425s
+process activity elapsed 1.822661166s
+process activity elapsed 1.814918709s
+recevie poll request 2022-06-03 13:21:46.637214 +0700 +07 m=+4.782542792
+recevie poll request started 68.959µs
+recevie poll request 2022-06-03 13:21:46.637252 +0700 +07 m=+4.782581542
+recevie poll request started 50.292µs
+2022/06/03 13:21:46 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID ea0ebbc8-e301-11ec-92c2-3e4fde57a633-409032 RunID aff15766-4a0d-435e-a9de-da108e854d38 Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:46.637358 +0700 +07 m=+4.782687167
+recevie poll request started 30.959µs
+recevie poll request 2022-06-03 13:21:46.637362 +0700 +07 m=+4.782691251
+recevie poll request started 43.708µs
+2022/06/03 13:21:46 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 88968aec-e301-11ec-8f59-3e4fde57a633-187907 RunID b0776cd4-abe4-425e-b321-b1a58bd510eb Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:46 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 897dbf48-e301-11ec-8f77-3e4fde57a633-190273 RunID 4a072643-3feb-495a-be80-b43d24d2a272 Attempt 1 TimerID 11 Duration 10s
+poll wait time 248.167µs
+process activity elapsed 1.811033375s
+recevie poll request 2022-06-03 13:21:46.637638 +0700 +07 m=+4.782967167
+recevie poll request started 20.375µs
+2022/06/03 13:21:46 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 894398e0-e301-11ec-8f6d-3e4fde57a633-189531 RunID 448f52fa-e77b-4076-b34e-24cbc6aeabee Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:46 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 85b2d272-e301-11ec-8f0b-3e4fde57a633-183191 RunID 620fcc76-9008-4f82-9035-0af89ea75a78 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+poll wait time 437.458µs
+poll wait time 1.413791ms
+poll wait time 2.184958ms
+poll wait time 2.926084ms
+process activity elapsed 1.575657042s
+recevie poll request 2022-06-03 13:21:46.809619 +0700 +07 m=+4.954953126
+recevie poll request started 40.458µs
+poll wait time 4.167µs
+recevie poll request 2022-06-03 13:21:46.809737 +0700 +07 m=+4.955071001
+recevie poll request started 28.916µs
+poll wait time 3.125µs
+process activity elapsed 1.576686708s
+process activity elapsed 2.703058875s
+process activity elapsed 2.703045875s
+recevie poll request 2022-06-03 13:21:46.809828 +0700 +07 m=+4.955162001
+recevie poll request started 11.916µs
+process activity elapsed 1.987459s
+process activity elapsed 2.703089166s
+process activity elapsed 1.576939459s
+process activity elapsed 1.575884542s
+process activity elapsed 1.576095042s
+recevie poll request 2022-06-03 13:21:46.80993 +0700 +07 m=+4.955263584
+process activity elapsed 1.576554084s
+recevie poll request 2022-06-03 13:21:46.80994 +0700 +07 m=+4.955273792
+2022/06/03 13:21:46 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 7d4b3476-e301-11ec-8e98-3e4fde57a633-160147 RunID d8517491-a905-4f65-96f2-13f45d4a778a Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+process activity elapsed 1.575873625s
+recevie poll request 2022-06-03 13:21:46.809976 +0700 +07 m=+4.955309626
+recevie poll request started 94.75µs
+recevie poll request started 26.042µs
+recevie poll request 2022-06-03 13:21:46.810007 +0700 +07 m=+4.955340834
+recevie poll request started 89.708µs
+recevie poll request started 44.042µs
+2022/06/03 13:21:46 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8a5e5012-e301-11ec-8f80-3e4fde57a633-191135 RunID 5195d77f-cc95-4640-9be4-6e5d4463830d Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:46 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 918797ea-e301-11ec-9026-3e4fde57a633-208922 RunID 612425ae-4650-47c6-9f72-4648f474a576 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+poll wait time 765.334µs
+poll wait time 1.042667ms
+poll wait time 1.727833ms
+poll wait time 1.779333ms
+poll wait time 2.834833ms
+recevie poll request 2022-06-03 13:21:46.857112 +0700 +07 m=+5.002447126
+recevie poll request started 23.916µs
+poll wait time 1.958µs
+recevie poll request 2022-06-03 13:21:46.857224 +0700 +07 m=+5.002558667
+recevie poll request started 15.209µs
+process activity elapsed 1.534420334s
+2022/06/03 13:21:46 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 920a9ce4-e301-11ec-902e-3e4fde57a633-210113 RunID 98c1e30f-2680-488e-ad90-cccd39e200c9 Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:46.857303 +0700 +07 m=+5.002637501
+recevie poll request started 14.083µs
+recevie poll request 2022-06-03 13:21:46.85733 +0700 +07 m=+5.002665042
+recevie poll request started 9.375µs
+recevie poll request 2022-06-03 13:21:46.857375 +0700 +07 m=+5.002709959
+recevie poll request started 17µs
+2022/06/03 13:21:46 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8d4aab2c-e301-11ec-8faf-3e4fde57a633-196449 RunID 3bfe1aab-e586-47b4-ace3-b96d370470c6 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:46 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 7c7252b4-e301-11ec-8e83-3e4fde57a633-157490 RunID 6757ccea-0897-4946-8cc9-5f0c6e8138dd Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+process activity elapsed 1.330417167s
+recevie poll request 2022-06-03 13:21:46.857432 +0700 +07 m=+5.002767001
+recevie poll request started 51µs
+2022/06/03 13:21:46 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 80c52652-e301-11ec-8ee1-3e4fde57a633-170141 RunID ef77f849-2123-4dda-b538-af640c4dbd05 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:46 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 7c4abde4-e301-11ec-8e78-3e4fde57a633-156821 RunID b6edd8f5-eccf-4ccf-b2ce-570087801088 Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:46 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 845c259a-e301-11ec-8eef-3e4fde57a633-179699 RunID 1fc800b9-b550-47ed-80e0-035001ebca92 Attempt 1 TimerID 11 Duration 10s
+poll wait time 1.103208ms
+poll wait time 1.969084ms
+poll wait time 2.947334ms
+poll wait time 3.905708ms
+poll wait time 4.809833ms
+process activity elapsed 1.740478417s
+recevie poll request 2022-06-03 13:21:46.97375 +0700 +07 m=+5.119088292
+recevie poll request started 39.375µs
+poll wait time 1.458µs
+recevie poll request 2022-06-03 13:21:46.973805 +0700 +07 m=+5.119143167
+recevie poll request started 24.084µs
+2022/06/03 13:21:46 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8e43dae4-e301-11ec-8fbe-3e4fde57a633-199666 RunID d081d1d2-221f-427b-80e6-879a85b0aff5 Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:46 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 684725b2-e301-11ec-8cf0-3e4fde57a633-100889 RunID fc6c9300-539b-407e-b027-c6ccb0964a9c Attempt 1 TimerID 13 Duration 10s
+poll wait time 1.120542ms
+process activity elapsed 1.65361075s
+process activity elapsed 1.449308917s
+process activity elapsed 1.653318125s
+recevie poll request 2022-06-03 13:21:46.976233 +0700 +07 m=+5.121570667
+recevie poll request started 24.292µs
+poll wait time 2µs
+recevie poll request 2022-06-03 13:21:46.976203 +0700 +07 m=+5.121541417
+recevie poll request started 98.75µs
+recevie poll request 2022-06-03 13:21:46.976284 +0700 +07 m=+5.121622459
+recevie poll request started 175.833µs
+poll wait time 1.542µs
+2022/06/03 13:21:46 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 7ed00f6a-e301-11ec-8eb5-3e4fde57a633-164299 RunID d1017eae-d68f-47c7-9958-e39928d085e5 Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:46 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 7d342f42-e301-11ec-8e96-3e4fde57a633-159889 RunID 1826dea0-7eb4-4725-a6ab-d2c50caa5792 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+poll wait time 1.305125ms
+recevie poll request 2022-06-03 13:21:47.066987 +0700 +07 m=+5.212327251
+recevie poll request started 34.291µs
+poll wait time 2.458µs
+process activity elapsed 1.539967125s
+recevie poll request 2022-06-03 13:21:47.067119 +0700 +07 m=+5.212459292
+recevie poll request started 27µs
+process activity elapsed 1.744940542s
+process activity elapsed 1.53984875s
+process activity elapsed 1.833632333s
+process activity elapsed 1.743962833s
+2022/06/03 13:21:47 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 838245c8-e301-11ec-8eec-3e4fde57a633-177859 RunID 1a1a3d9e-642a-42b9-ac9c-ff732f2e4fc0 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:47 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 9037beec-e301-11ec-9016-3e4fde57a633-205138 RunID 7d6ff76a-bbc7-4593-9256-a22daf595095 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+poll wait time 1.572041ms
+recevie poll request 2022-06-03 13:21:47.082247 +0700 +07 m=+5.227588167
+recevie poll request started 19.792µs
+poll wait time 1.375µs
+process activity elapsed 1.5550665s
+recevie poll request 2022-06-03 13:21:47.082308 +0700 +07 m=+5.227652167
+recevie poll request started 14.875µs
+process activity elapsed 1.759620792s
+recevie poll request 2022-06-03 13:21:47.08234 +0700 +07 m=+5.227680501
+recevie poll request started 5.875µs
+2022/06/03 13:21:47 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 81b8ab7e-e301-11ec-8ee5-3e4fde57a633-172318 RunID 4aed0499-2519-4237-b3a5-1b4bd6ff2fa4 Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:47 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 88b24822-e301-11ec-8f5b-3e4fde57a633-188080 RunID e741189a-701e-42ee-bea6-f29fadec1a44 Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:47.082367 +0700 +07 m=+5.227707667
+recevie poll request started 25.625µs
+2022/06/03 13:21:47 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8f007d48-e301-11ec-8ffd-3e4fde57a633-201817 RunID 4f2a2376-aab0-4531-b559-f44e6ba5b49e Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:47 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8abea502-e301-11ec-8f80-3e4fde57a633-191695 RunID 4dddf912-6bf5-4daf-8a2d-9685c4a9d8d8 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+poll wait time 1.124042ms
+poll wait time 2.066416ms
+poll wait time 3.031042ms
+recevie poll request 2022-06-03 13:21:47.25748 +0700 +07 m=+5.402824876
+recevie poll request started 155.666µs
+poll wait time 8.417µs
+recevie poll request 2022-06-03 13:21:47.258208 +0700 +07 m=+5.403553459
+recevie poll request started 14.583µs
+poll wait time 1.875µs
+process activity elapsed 1.935614125s
+process activity elapsed 1.9360055s
+process activity elapsed 1.935638833s
+process activity elapsed 1.731322792s
+process activity elapsed 3.151676125s
+recevie poll request 2022-06-03 13:21:47.25865 +0700 +07 m=+5.403995292
+recevie poll request started 70.5µs
+poll wait time 584ns
+recevie poll request 2022-06-03 13:21:47.258762 +0700 +07 m=+5.404107792
+recevie poll request started 11.125µs
+recevie poll request 2022-06-03 13:21:47.259094 +0700 +07 m=+5.404439084
+recevie poll request started 12.333µs
+recevie poll request 2022-06-03 13:21:47.259119 +0700 +07 m=+5.404464792
+recevie poll request started 8.917µs
+poll wait time 165.583µs
+recevie poll request 2022-06-03 13:21:47.259479 +0700 +07 m=+5.404824709
+recevie poll request started 13.042µs
+recevie poll request 2022-06-03 13:21:47.259734 +0700 +07 m=+5.405079834
+recevie poll request started 18.167µs
+poll wait time 976.125µs
+2022/06/03 13:21:47 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 9187c94a-e301-11ec-9026-3e4fde57a633-208980 RunID 68b59f00-6188-439a-89ae-7dd867df55b8 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+poll wait time 1.190375ms
+2022/06/03 13:21:47 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 835817da-e301-11ec-8eec-3e4fde57a633-177518 RunID 31a4e69f-f107-4913-9154-5f608ef7585b Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:47.260547 +0700 +07 m=+5.405892292
+recevie poll request started 19.042µs
+2022/06/03 13:21:47 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 81dfa49a-e301-11ec-8ee6-3e4fde57a633-172624 RunID 9a966b30-9e65-4f05-9817-8c5244bd57dc Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:47 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8abe58b8-e301-11ec-8f80-3e4fde57a633-191659 RunID de028247-5c71-4c4f-915e-f354bc4ade08 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+poll wait time 1.259917ms
+poll wait time 2.098208ms
+poll wait time 1.387291ms
+recevie poll request 2022-06-03 13:21:47.305689 +0700 +07 m=+5.451035584
+recevie poll request started 55.417µs
+poll wait time 2.167µs
+recevie poll request 2022-06-03 13:21:47.305772 +0700 +07 m=+5.451118209
+recevie poll request started 20.375µs
+poll wait time 1.167µs
+recevie poll request 2022-06-03 13:21:47.305884 +0700 +07 m=+5.451231042
+recevie poll request started 13.167µs
+2022/06/03 13:21:47 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 82454408-e301-11ec-8ee6-3e4fde57a633-173957 RunID fc7031ef-bece-4a98-a227-2099ec2a7a9e Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:47 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID d981cc46-e301-11ec-9286-3e4fde57a633-375208 RunID 87896940-11e3-4530-8645-853f721c5176 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:47.306069 +0700 +07 m=+5.451415334
+recevie poll request started 24.75µs
+recevie poll request 2022-06-03 13:21:47.305724 +0700 +07 m=+5.451070667
+recevie poll request started 385.959µs
+recevie poll request 2022-06-03 13:21:47.306099 +0700 +07 m=+5.451445459
+recevie poll request started 25.958µs
+recevie poll request 2022-06-03 13:21:47.30615 +0700 +07 m=+5.451496626
+recevie poll request started 8µs
+2022/06/03 13:21:47 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 7f3359da-e301-11ec-8eb5-3e4fde57a633-165124 RunID 8f518384-f150-404b-a607-a6e2f32f4a72 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+process activity elapsed 984.984042ms
+recevie poll request 2022-06-03 13:21:47.306404 +0700 +07 m=+5.451750959
+recevie poll request started 73.75µs
+2022/06/03 13:21:47 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 896c09d8-e301-11ec-8f6e-3e4fde57a633-189865 RunID 0de13bf9-2031-4f7e-84f1-5363758d8293 Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:47 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 7ccf47c6-e301-11ec-8e86-3e4fde57a633-158731 RunID b3ff42f8-b85a-46b0-b082-3c0487e46eb1 Attempt 1 TimerID 11 Duration 10s
+poll wait time 861.208µs
+poll wait time 990.5µs
+poll wait time 1.733042ms
+poll wait time 1.7255ms
+poll wait time 2.818167ms
+poll wait time 3.468125ms
+process activity elapsed 835.101042ms
+process activity elapsed 835.490417ms
+recevie poll request 2022-06-03 13:21:47.376111 +0700 +07 m=+5.521459751
+recevie poll request started 35.25µs
+poll wait time 4.083µs
+recevie poll request 2022-06-03 13:21:47.376196 +0700 +07 m=+5.521544251
+recevie poll request started 17.708µs
+poll wait time 1.625µs
+process activity elapsed 835.305667ms
+process activity elapsed 739.015083ms
+process activity elapsed 738.742542ms
+process activity elapsed 739.209083ms
+recevie poll request 2022-06-03 13:21:47.376447 +0700 +07 m=+5.521795626
+recevie poll request started 23.333µs
+recevie poll request 2022-06-03 13:21:47.376495 +0700 +07 m=+5.521843501
+recevie poll request started 20.666µs
+recevie poll request 2022-06-03 13:21:47.376566 +0700 +07 m=+5.521914084
+recevie poll request 2022-06-03 13:21:47.37662 +0700 +07 m=+5.521968126
+process activity elapsed 739.162417ms
+recevie poll request started 54.417µs
+2022/06/03 13:21:47 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 81df1444-e301-11ec-8ee5-3e4fde57a633-172528 RunID 46313a28-1376-4533-b65e-69eeb7805845 Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:47.376703 +0700 +07 m=+5.522051876
+recevie poll request started 154.458µs
+recevie poll request started 106.625µs
+process activity elapsed 738.880458ms
+recevie poll request 2022-06-03 13:21:47.376734 +0700 +07 m=+5.522082501
+recevie poll request started 207.25µs
+process activity elapsed 739.000459ms
+process activity elapsed 1.0553335s
+recevie poll request 2022-06-03 13:21:47.376839 +0700 +07 m=+5.522187167
+recevie poll request started 139.334µs
+2022/06/03 13:21:47 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 84639b54-e301-11ec-8eef-3e4fde57a633-179882 RunID 974aa544-1b34-4900-aa18-a71b8f91cf42 Attempt 1 TimerID 11 Duration 10s
+process activity elapsed 2.053702042s
+2022/06/03 13:21:47 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8dd8cf74-e301-11ec-8fbe-3e4fde57a633-198270 RunID 1cb148ea-9eb2-4c20-a948-3437a5a806e5 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:47 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 81e81288-e301-11ec-8ee6-3e4fde57a633-172819 RunID 9baa513b-b9b8-42ac-89e0-20f92f3f29f6 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:47 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID d167c920-e301-11ec-923c-3e4fde57a633-358690 RunID 79859c83-e10f-4ce2-9f85-cb1452393af2 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:47 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 843f67c0-e301-11ec-8eef-3e4fde57a633-179470 RunID fd7bd625-3697-45a4-908c-b6a63a5aa7fe Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+poll wait time 748.542µs
+2022/06/03 13:21:47 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 861e25fe-e301-11ec-8f0d-3e4fde57a633-184025 RunID a9a7f644-def7-448a-9389-044c3294afcd Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+poll wait time 373.125µs
+poll wait time 1.815875ms
+poll wait time 2.622792ms
+poll wait time 3.404125ms
+poll wait time 4.339166ms
+poll wait time 5.319917ms
+process activity elapsed 667.57ms
+process activity elapsed 667.618125ms
+process activity elapsed 667.722667ms
+recevie poll request 2022-06-03 13:21:47.477723 +0700 +07 m=+5.623073667
+recevie poll request started 53.667µs
+poll wait time 4.542µs
+process activity elapsed 840.67275ms
+process activity elapsed 668.012542ms
+recevie poll request 2022-06-03 13:21:47.478071 +0700 +07 m=+5.623421667
+recevie poll request started 19.292µs
+poll wait time 3.958µs
+process activity elapsed 620.765375ms
+process activity elapsed 620.834792ms
+recevie poll request 2022-06-03 13:21:47.478289 +0700 +07 m=+5.623640459
+recevie poll request started 16.792µs
+recevie poll request 2022-06-03 13:21:47.478347 +0700 +07 m=+5.623697834
+recevie poll request started 29.333µs
+recevie poll request 2022-06-03 13:21:47.478712 +0700 +07 m=+5.624063459
+recevie poll request started 16.625µs
+recevie poll request 2022-06-03 13:21:47.478734 +0700 +07 m=+5.624085459
+recevie poll request started 16.75µs
+poll wait time 608.083µs
+recevie poll request 2022-06-03 13:21:47.479034 +0700 +07 m=+5.624384584
+recevie poll request started 21.042µs
+poll wait time 381.25µs
+recevie poll request 2022-06-03 13:21:47.479147 +0700 +07 m=+5.624498209
+recevie poll request started 12.625µs
+process activity elapsed 669.423958ms
+2022/06/03 13:21:47 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 90cb18c2-e301-11ec-901c-3e4fde57a633-206742 RunID 0d625249-0dab-4dd1-9941-8544de677a6c Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+poll wait time 5.140209ms
+recevie poll request 2022-06-03 13:21:47.484488 +0700 +07 m=+5.629838709
+recevie poll request started 26.375µs
+poll wait time 1.959µs
+poll wait time 6.213208ms
+2022/06/03 13:21:47 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 84634168-e301-11ec-8eef-3e4fde57a633-179819 RunID 3772fdc2-15a8-4ac2-b46b-3efcf8676549 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+poll wait time 5.891417ms
+poll wait time 5.632333ms
+2022/06/03 13:21:47 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 91b6031e-e301-11ec-9026-3e4fde57a633-209877 RunID 6fc67e03-4e92-4d12-881b-4350994612c3 Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:47.485014 +0700 +07 m=+5.630364876
+recevie poll request started 12.916µs
+2022/06/03 13:21:47 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 81e88646-e301-11ec-8ee6-3e4fde57a633-172858 RunID cd685771-11af-4dca-9d54-9ba2ae143bad Attempt 1 TimerID 11 Duration 10s
+process activity elapsed 627.8195ms
+recevie poll request 2022-06-03 13:21:47.48522 +0700 +07 m=+5.630571376
+recevie poll request started 12.166µs
+poll wait time 584ns
+recevie poll request 2022-06-03 13:21:47.485315 +0700 +07 m=+5.630666459
+recevie poll request started 12.083µs
+2022/06/03 13:21:47 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 88174340-e301-11ec-8f1c-3e4fde57a633-186709 RunID 253067b4-ed0a-4750-9268-b3c6a061828d Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:47.48548 +0700 +07 m=+5.630831042
+recevie poll request started 11.542µs
+poll wait time 532.125µs
+recevie poll request 2022-06-03 13:21:47.485737 +0700 +07 m=+5.631088542
+recevie poll request started 11.667µs
+poll wait time 812.083µs
+poll wait time 1.481125ms
+poll wait time 1.759375ms
+recevie poll request 2022-06-03 13:21:47.56159 +0700 +07 m=+5.706942876
+recevie poll request started 53.666µs
+poll wait time 2.625µs
+process activity elapsed 751.874667ms
+process activity elapsed 751.951792ms
+process activity elapsed 585.579709ms
+process activity elapsed 585.671417ms
+process activity elapsed 588.103375ms
+recevie poll request 2022-06-03 13:21:47.561939 +0700 +07 m=+5.707292709
+recevie poll request started 11.5µs
+poll wait time 1.042µs
+process activity elapsed 704.758375ms
+process activity elapsed 705.089ms
+process activity elapsed 586.077209ms
+process activity elapsed 588.576042ms
+process activity elapsed 705.224708ms
+recevie poll request 2022-06-03 13:21:47.562391 +0700 +07 m=+5.707744167
+recevie poll request started 9.875µs
+recevie poll request 2022-06-03 13:21:47.562414 +0700 +07 m=+5.707767459
+recevie poll request started 8.833µs
+recevie poll request 2022-06-03 13:21:47.562436 +0700 +07 m=+5.707789626
+recevie poll request started 9µs
+recevie poll request 2022-06-03 13:21:47.562457 +0700 +07 m=+5.707809792
+recevie poll request started 8.167µs
+recevie poll request 2022-06-03 13:21:47.562474 +0700 +07 m=+5.707827417
+recevie poll request started 7.875µs
+recevie poll request 2022-06-03 13:21:47.56251 +0700 +07 m=+5.707863334
+recevie poll request started 9.042µs
+recevie poll request 2022-06-03 13:21:47.562647 +0700 +07 m=+5.708000251
+recevie poll request started 11.541µs
+poll wait time 260.625µs
+recevie poll request 2022-06-03 13:21:47.5628 +0700 +07 m=+5.708152917
+recevie poll request started 11.334µs
+recevie poll request 2022-06-03 13:21:47.56291 +0700 +07 m=+5.708263209
+recevie poll request started 11.375µs
+poll wait time 305.708µs
+recevie poll request 2022-06-03 13:21:47.563056 +0700 +07 m=+5.708409501
+recevie poll request started 11.291µs
+recevie poll request 2022-06-03 13:21:47.563194 +0700 +07 m=+5.708547292
+recevie poll request started 10.875µs
+recevie poll request 2022-06-03 13:21:47.563298 +0700 +07 m=+5.708651709
+recevie poll request started 11.25µs
+2022/06/03 13:21:47 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8943919c-e301-11ec-8f6d-3e4fde57a633-189506 RunID 82184dcf-cfec-4e05-83bd-3f0bf3595188 Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:47 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8a55247e-e301-11ec-8f7f-3e4fde57a633-191013 RunID 4c9bb063-e00f-4e76-bd1c-90003370a93b Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:47 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 794f841c-e301-11ec-8e38-3e4fde57a633-147786 RunID 3f4725b8-10ae-4798-9754-dfc131cbcc40 Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:47.563652 +0700 +07 m=+5.709005042
+recevie poll request started 11.875µs
+poll wait time 1.244667ms
+poll wait time 939.083µs
+poll wait time 2.250834ms
+poll wait time 3.286833ms
+poll wait time 4.295208ms
+poll wait time 5.29125ms
+poll wait time 5.971167ms
+poll wait time 6.866167ms
+poll wait time 7.7205ms
+poll wait time 8.598791ms
+poll wait time 9.500875ms
+recevie poll request 2022-06-03 13:21:47.905593 +0700 +07 m=+6.050954876
+recevie poll request started 216.916µs
+poll wait time 8.375µs
+recevie poll request 2022-06-03 13:21:47.906737 +0700 +07 m=+6.052099542
+recevie poll request started 54.042µs
+poll wait time 2.5µs
+recevie poll request 2022-06-03 13:21:47.906971 +0700 +07 m=+6.052333459
+recevie poll request started 16.292µs
+poll wait time 583ns
+process activity elapsed 826.112625ms
+process activity elapsed 826.160584ms
+process activity elapsed 826.213167ms
+process activity elapsed 826.264459ms
+recevie poll request 2022-06-03 13:21:47.909976 +0700 +07 m=+6.055338251
+recevie poll request started 32.5µs
+poll wait time 916ns
+recevie poll request 2022-06-03 13:21:47.910041 +0700 +07 m=+6.055403459
+recevie poll request started 12.042µs
+recevie poll request 2022-06-03 13:21:47.910068 +0700 +07 m=+6.055429959
+recevie poll request started 10.542µs
+2022/06/03 13:21:47 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 85670158-e301-11ec-8f06-3e4fde57a633-182251 RunID f617a994-7ed7-4ca4-9302-3106db2d1b68 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:47.910471 +0700 +07 m=+6.055832917
+recevie poll request started 76.084µs
+recevie poll request 2022-06-03 13:21:47.910549 +0700 +07 m=+6.055910834
+recevie poll request started 83.083µs
+2022/06/03 13:21:47 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8170ab94-e301-11ec-8ee3-3e4fde57a633-172123 RunID bd97b648-c205-4453-a852-277a23ac5152 Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:47 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 81df8ac8-e301-11ec-8ee6-3e4fde57a633-172595 RunID 097d1244-fdc2-4289-9672-70d8d915a294 Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:47 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 82002134-e301-11ec-8ee6-3e4fde57a633-173191 RunID f4133a3b-dcb6-4de2-a72d-3f1c860dd8a9 Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:47.911009 +0700 +07 m=+6.056371584
+recevie poll request started 25.833µs
+2022/06/03 13:21:47 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8887db28-e301-11ec-8f59-3e4fde57a633-187748 RunID c775378b-6ebe-4a06-92c4-37589ca70fef Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:47 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 827bd9a0-e301-11ec-8ee9-3e4fde57a633-174740 RunID 8fee3aa1-c98d-4bb8-a14c-a74cdd7cde72 Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:47.911159 +0700 +07 m=+6.056521209
+recevie poll request started 31.75µs
+2022/06/03 13:21:47 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 74d2d4e8-e301-11ec-8dfb-3e4fde57a633-136177 RunID d9df5d09-bfc5-47d7-ba38-9cdae39c738a Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:47 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 889decec-e301-11ec-8f59-3e4fde57a633-187968 RunID 7ce1b625-3e0f-463a-9a4a-4291e9cd2d05 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+poll wait time 1.003667ms
+2022/06/03 13:21:47 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 80231826-e301-11ec-8ed3-3e4fde57a633-168391 RunID 6b45190b-a9c2-4865-aef8-5ba8c8b27576 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:47.911446 +0700 +07 m=+6.056808292
+recevie poll request started 103.209µs
+2022/06/03 13:21:47 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8a9b9256-e301-11ec-8f80-3e4fde57a633-191436 RunID f191a140-df19-44f8-966e-f85e7e7cea06 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+poll wait time 3.170542ms
+poll wait time 3.659292ms
+poll wait time 4.384583ms
+poll wait time 4.434416ms
+poll wait time 4.992583ms
+poll wait time 5.601583ms
+recevie poll request 2022-06-03 13:21:47.983316 +0700 +07 m=+6.128680042
+recevie poll request started 124.875µs
+poll wait time 7.042µs
+process activity elapsed 916.804417ms
+process activity elapsed 724.727084ms
+recevie poll request 2022-06-03 13:21:47.984096 +0700 +07 m=+6.129460084
+recevie poll request started 11.875µs
+poll wait time 2.209µs
+process activity elapsed 724.653583ms
+recevie poll request 2022-06-03 13:21:47.984209 +0700 +07 m=+6.129573126
+recevie poll request started 10.958µs
+poll wait time 244.042µs
+2022/06/03 13:21:47 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8bc38c42-e301-11ec-8f99-3e4fde57a633-193213 RunID 26bce158-b262-451d-8145-21534ec8a69a Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:47.984761 +0700 +07 m=+6.130124959
+recevie poll request started 118.5µs
+2022/06/03 13:21:47 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8bdc9a7a-e301-11ec-8f99-3e4fde57a633-193382 RunID 7b7e7ded-3e90-4656-941a-9253e2711e58 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:47 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 7e21a9ac-e301-11ec-8eb3-3e4fde57a633-163295 RunID ca516edc-949d-494d-b036-1542f1e5771c Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+poll wait time 681.708µs
+recevie poll request 2022-06-03 13:21:47.987145 +0700 +07 m=+6.132509001
+recevie poll request started 21.875µs
+poll wait time 1.125µs
+process activity elapsed 727.232583ms
+process activity elapsed 728.421084ms
+process activity elapsed 726.615791ms
+recevie poll request 2022-06-03 13:21:47.987282 +0700 +07 m=+6.132645751
+recevie poll request started 19.375µs
+recevie poll request 2022-06-03 13:21:47.9873 +0700 +07 m=+6.132664292
+recevie poll request started 13.875µs
+poll wait time 375ns
+2022/06/03 13:21:47 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 7d4b3476-e301-11ec-8e98-3e4fde57a633-160147 RunID d8517491-a905-4f65-96f2-13f45d4a778a Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:47.987386 +0700 +07 m=+6.132750209
+recevie poll request started 13.792µs
+recevie poll request 2022-06-03 13:21:47.987398 +0700 +07 m=+6.132762459
+recevie poll request started 31.75µs
+recevie poll request 2022-06-03 13:21:47.987281 +0700 +07 m=+6.132645167
+recevie poll request started 172.584µs
+process activity elapsed 728.3265ms
+process activity elapsed 727.981417ms
+recevie poll request 2022-06-03 13:21:47.987442 +0700 +07 m=+6.132805792
+recevie poll request started 51.667µs
+2022/06/03 13:21:47 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 83a20e9e-e301-11ec-8eec-3e4fde57a633-178098 RunID 552f1dc0-0232-4f6b-a38e-af030a7ec7de Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:47 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 6846cec8-e301-11ec-8cf0-3e4fde57a633-100795 RunID 87329313-8732-4661-8721-7ceeb3f9aba7 Attempt 1 TimerID 13 Duration 10s
+poll wait time 911.791µs
+poll wait time 1.055875ms
+poll wait time 1.912ms
+poll wait time 1.882292ms
+poll wait time 2.827208ms
+process activity elapsed 689.957416ms
+recevie poll request 2022-06-03 13:21:48.066278 +0700 +07 m=+6.211643834
+recevie poll request started 25.208µs
+poll wait time 3.583µs
+process activity elapsed 689.76275ms
+process activity elapsed 806.928875ms
+process activity elapsed 689.443208ms
+process activity elapsed 689.510167ms
+process activity elapsed 759.978125ms
+process activity elapsed 760.46ms
+process activity elapsed 760.187625ms
+process activity elapsed 760.163375ms
+process activity elapsed 689.716709ms
+recevie poll request 2022-06-03 13:21:48.066384 +0700 +07 m=+6.211750334
+recevie poll request started 42.833µs
+2022/06/03 13:21:48 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 873644d0-e301-11ec-8f0f-3e4fde57a633-185178 RunID 54c4ff39-18d1-4984-9362-6e20001b00fb Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 92f4065e-e301-11ec-9037-3e4fde57a633-211848 RunID cdbb4922-84d2-4d69-93cc-d244f84d6d6b Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+poll wait time 1.040083ms
+process activity elapsed 589.381208ms
+process activity elapsed 583.182667ms
+process activity elapsed 589.184334ms
+process activity elapsed 589.181ms
+process activity elapsed 588.889875ms
+recevie poll request 2022-06-03 13:21:48.06794 +0700 +07 m=+6.213306084
+recevie poll request started 9µs
+process activity elapsed 588.884541ms
+process activity elapsed 807.6155ms
+recevie poll request 2022-06-03 13:21:48.067981 +0700 +07 m=+6.213346876
+recevie poll request started 33.541µs
+poll wait time 1.875µs
+2022/06/03 13:21:48 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 918797ea-e301-11ec-9026-3e4fde57a633-208922 RunID 612425ae-4650-47c6-9f72-4648f474a576 Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:48.067966 +0700 +07 m=+6.213332084
+recevie poll request started 103.625µs
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 82a8b6a0-e301-11ec-8eea-3e4fde57a633-175267 RunID 84de626f-1afc-498b-9a12-25c98f1f06fd Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:48 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 86014614-e301-11ec-8f0c-3e4fde57a633-183630 RunID 3fb33bba-2f28-4ef1-8bde-11c64d9a9669 Attempt 1 TimerID 11 Duration 10s
+process activity elapsed 762.096792ms
+recevie poll request 2022-06-03 13:21:48.06812 +0700 +07 m=+6.213486001
+recevie poll request started 10.75µs
+recevie poll request 2022-06-03 13:21:48.068015 +0700 +07 m=+6.213381126
+recevie poll request started 125.791µs
+process activity elapsed 505.083542ms
+recevie poll request 2022-06-03 13:21:48.06816 +0700 +07 m=+6.213526167
+recevie poll request started 13.792µs
+process activity elapsed 504.980333ms
+recevie poll request 2022-06-03 13:21:48.068185 +0700 +07 m=+6.213551209
+recevie poll request started 11.833µs
+recevie poll request 2022-06-03 13:21:48.068199 +0700 +07 m=+6.213565167
+recevie poll request started 9.459µs
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 88edfb88-e301-11ec-8f66-3e4fde57a633-188739 RunID 6333658a-1cc2-4d19-b065-092ed2b9e8e8 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:48.068258 +0700 +07 m=+6.213624542
+recevie poll request started 11µs
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 826b678c-e301-11ec-8ee7-3e4fde57a633-174388 RunID 1043b8b8-6a2d-40ad-9ce4-c8e59e470615 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:48 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 85b2d272-e301-11ec-8f0b-3e4fde57a633-183191 RunID 620fcc76-9008-4f82-9035-0af89ea75a78 Attempt 1 TimerID 11 Duration 10s
+poll wait time 379.375µs
+poll wait time 1.592208ms
+poll wait time 2.041917ms
+poll wait time 1.980209ms
+poll wait time 2.241709ms
+poll wait time 3.434541ms
+poll wait time 4.245667ms
+poll wait time 5.180208ms
+recevie poll request 2022-06-03 13:21:48.173418 +0700 +07 m=+6.318786501
+recevie poll request started 53.833µs
+poll wait time 1.875µs
+recevie poll request 2022-06-03 13:21:48.173483 +0700 +07 m=+6.318852292
+recevie poll request started 44.042µs
+poll wait time 3.334µs
+recevie poll request 2022-06-03 13:21:48.173418 +0700 +07 m=+6.318786542
+process activity elapsed 688.015083ms
+recevie poll request 2022-06-03 13:21:48.173547 +0700 +07 m=+6.318916167
+process activity elapsed 610.628375ms
+process activity elapsed 610.91475ms
+process activity elapsed 694.658541ms
+recevie poll request started 265.667µs
+2022/06/03 13:21:48 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 7d342f42-e301-11ec-8e96-3e4fde57a633-159889 RunID 1826dea0-7eb4-4725-a6ab-d2c50caa5792 Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:48.173536 +0700 +07 m=+6.318905459
+recevie poll request started 278.125µs
+recevie poll request 2022-06-03 13:21:48.173821 +0700 +07 m=+6.319189626
+recevie poll request started 28.458µs
+recevie poll request 2022-06-03 13:21:48.1737 +0700 +07 m=+6.319068501
+recevie poll request started 182.291µs
+2022/06/03 13:21:48 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8f007d48-e301-11ec-8ffd-3e4fde57a633-201817 RunID 4f2a2376-aab0-4531-b559-f44e6ba5b49e Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:48 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8adaa2de-e301-11ec-8f80-3e4fde57a633-191983 RunID d6171328-2402-45eb-9b70-60051c39c05e Attempt 1 TimerID 11 Duration 10s
+process activity elapsed 610.893833ms
+recevie poll request 2022-06-03 13:21:48.173833 +0700 +07 m=+6.319201834
+recevie poll request started 169.208µs
+recevie poll request 2022-06-03 13:21:48.173864 +0700 +07 m=+6.319233251
+recevie poll request started 162.375µs
+recevie poll request 2022-06-03 13:21:48.173555 +0700 +07 m=+6.318923876
+process activity elapsed 796.985584ms
+recevie poll request started 482.041µs
+recevie poll request started 180.667µs
+2022/06/03 13:21:48 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 87fd0f84-e301-11ec-8f1c-3e4fde57a633-186655 RunID ec1f438f-d452-4868-8cfe-dad5abaf8157 Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:48.173735 +0700 +07 m=+6.319103626
+recevie poll request started 442.708µs
+2022/06/03 13:21:48 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 90cb18c2-e301-11ec-901c-3e4fde57a633-206742 RunID 0d625249-0dab-4dd1-9941-8544de677a6c Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 7e23ad1a-e301-11ec-8eb3-3e4fde57a633-163332 RunID 1e9bdf35-7560-4379-8271-3a466e0d3589 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+poll wait time 1.107209ms
+poll wait time 1.204042ms
+poll wait time 1.751292ms
+poll wait time 1.6245ms
+process activity elapsed 612.969ms
+process activity elapsed 612.339416ms
+recevie poll request 2022-06-03 13:21:48.175906 +0700 +07 m=+6.321274917
+recevie poll request started 28.125µs
+process activity elapsed 869.563292ms
+recevie poll request 2022-06-03 13:21:48.175974 +0700 +07 m=+6.321342626
+recevie poll request started 18.583µs
+recevie poll request 2022-06-03 13:21:48.175992 +0700 +07 m=+6.321361292
+recevie poll request started 20.584µs
+2022/06/03 13:21:48 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8abea502-e301-11ec-8f80-3e4fde57a633-191695 RunID 4dddf912-6bf5-4daf-8a2d-9685c4a9d8d8 Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID e696c2d8-e301-11ec-92bf-3e4fde57a633-402603 RunID 2daced8c-f885-42c5-b781-20b5e4fe9f21 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 81b90a9c-e301-11ec-8ee5-3e4fde57a633-172410 RunID 90c31a59-dedc-43a2-adc0-93ea7771d8a6 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+poll wait time 2.693083ms
+poll wait time 2.545958ms
+poll wait time 3.935875ms
+poll wait time 4.011292ms
+poll wait time 4.57ms
+poll wait time 3.754833ms
+poll wait time 5.894875ms
+poll wait time 6.028959ms
+process activity elapsed 902.439875ms
+process activity elapsed 902.297042ms
+recevie poll request 2022-06-03 13:21:48.279165 +0700 +07 m=+6.424536667
+recevie poll request started 42.042µs
+poll wait time 3.791µs
+recevie poll request 2022-06-03 13:21:48.279298 +0700 +07 m=+6.424670209
+recevie poll request started 28.042µs
+poll wait time 1.834µs
+process activity elapsed 973.548833ms
+process activity elapsed 794.414583ms
+process activity elapsed 716.162375ms
+process activity elapsed 716.693458ms
+process activity elapsed 716.382208ms
+process activity elapsed 794.255042ms
+process activity elapsed 801.2275ms
+recevie poll request 2022-06-03 13:21:48.279648 +0700 +07 m=+6.425020001
+recevie poll request started 15.041µs
+process activity elapsed 800.562083ms
+process activity elapsed 794.268917ms
+process activity elapsed 369.752917ms
+process activity elapsed 369.2215ms
+recevie poll request 2022-06-03 13:21:48.279866 +0700 +07 m=+6.425237709
+recevie poll request started 30.083µs
+process activity elapsed 369.039417ms
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8cf6b5b2-e301-11ec-8fa6-3e4fde57a633-195791 RunID 40dac141-4660-420f-8a70-0e4eebc9b50c Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:48 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 7f3359da-e301-11ec-8eb5-3e4fde57a633-165124 RunID 8f518384-f150-404b-a607-a6e2f32f4a72 Attempt 1 TimerID 11 Duration 10s
+process activity elapsed 717.480667ms
+process activity elapsed 368.878666ms
+recevie poll request 2022-06-03 13:21:48.279997 +0700 +07 m=+6.425368334
+recevie poll request started 39.708µs
+recevie poll request 2022-06-03 13:21:48.280017 +0700 +07 m=+6.425389167
+recevie poll request started 40.167µs
+process activity elapsed 903.308625ms
+process activity elapsed 1.213003583s
+process activity elapsed 717.430334ms
+process activity elapsed 717.1335ms
+process activity elapsed 716.889584ms
+process activity elapsed 716.741667ms
+recevie poll request 2022-06-03 13:21:48.28017 +0700 +07 m=+6.425541917
+recevie poll request started 21.75µs
+recevie poll request 2022-06-03 13:21:48.280182 +0700 +07 m=+6.425553834
+recevie poll request started 42µs
+process activity elapsed 369.072958ms
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 84639a1e-e301-11ec-8eef-3e4fde57a633-179881 RunID a6ffd528-ff80-40cf-b9ad-d2998e9460d6 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:48.280303 +0700 +07 m=+6.425675001
+recevie poll request started 19.416µs
+process activity elapsed 369.25125ms
+process activity elapsed 794.0555ms
+recevie poll request 2022-06-03 13:21:48.280286 +0700 +07 m=+6.425657751
+recevie poll request started 123.541µs
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 80b5f0ec-e301-11ec-8ed9-3e4fde57a633-169876 RunID 48e0a132-5f20-4003-ae6b-ccde694848aa Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+poll wait time 863.917µs
+recevie poll request 2022-06-03 13:21:48.280556 +0700 +07 m=+6.425927834
+recevie poll request started 39.333µs
+2022/06/03 13:21:48 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8d4aab2c-e301-11ec-8faf-3e4fde57a633-196449 RunID 3bfe1aab-e586-47b4-ace3-b96d370470c6 Attempt 1 TimerID 11 Duration 10s
+poll wait time 400.583µs
+2022/06/03 13:21:48 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8abe58b8-e301-11ec-8f80-3e4fde57a633-191659 RunID de028247-5c71-4c4f-915e-f354bc4ade08 Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:48.28043 +0700 +07 m=+6.425801667
+recevie poll request started 268.959µs
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 812609fe-e301-11ec-8ee3-3e4fde57a633-171346 RunID 8248aa6b-84cb-4413-a461-ae6c08c1b21d Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:48.280546 +0700 +07 m=+6.425917626
+recevie poll request started 221.041µs
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID d55f585e-e301-11ec-9246-3e4fde57a633-364428 RunID a6a3380d-4419-4ed8-8038-1e13c51f3be2 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:48.28063 +0700 +07 m=+6.426001417
+recevie poll request started 209.167µs
+poll wait time 1.394958ms
+poll wait time 1.583667ms
+poll wait time 2.29225ms
+poll wait time 2.425209ms
+poll wait time 3.687208ms
+poll wait time 4.006958ms
+poll wait time 3.965958ms
+poll wait time 4.38625ms
+poll wait time 4.847166ms
+poll wait time 5.471875ms
+process activity elapsed 393.50675ms
+process activity elapsed 393.566833ms
+recevie poll request 2022-06-03 13:21:48.378228 +0700 +07 m=+6.523601917
+recevie poll request started 46.459µs
+poll wait time 3.5µs
+process activity elapsed 391.095667ms
+recevie poll request 2022-06-03 13:21:48.378313 +0700 +07 m=+6.523686959
+recevie poll request started 47µs
+process activity elapsed 310.39175ms
+process activity elapsed 393.621542ms
+process activity elapsed 467.09875ms
+process activity elapsed 391.130792ms
+process activity elapsed 312.108584ms
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8b474330-e301-11ec-8f83-3e4fde57a633-192618 RunID 46b946bc-7c8c-4568-863f-546ad67ea2c6 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+process activity elapsed 310.519375ms
+process activity elapsed 391.091834ms
+process activity elapsed 394.223917ms
+recevie poll request 2022-06-03 13:21:48.378421 +0700 +07 m=+6.523795751
+recevie poll request started 109.958µs
+poll wait time 1.542µs
+process activity elapsed 391.257875ms
+process activity elapsed 310.474583ms
+process activity elapsed 391.068625ms
+process activity elapsed 310.396084ms
+recevie poll request 2022-06-03 13:21:48.378577 +0700 +07 m=+6.523950876
+recevie poll request started 152.416µs
+recevie poll request 2022-06-03 13:21:48.378425 +0700 +07 m=+6.523799334
+recevie poll request started 324.292µs
+recevie poll request 2022-06-03 13:21:48.378445 +0700 +07 m=+6.523819792
+recevie poll request started 329.709µs
+recevie poll request 2022-06-03 13:21:48.378619 +0700 +07 m=+6.523993251
+recevie poll request started 175.583µs
+process activity elapsed 310.487708ms
+recevie poll request 2022-06-03 13:21:48.378641 +0700 +07 m=+6.524015292
+recevie poll request started 252.917µs
+recevie poll request 2022-06-03 13:21:48.378726 +0700 +07 m=+6.524100459
+recevie poll request started 196µs
+2022/06/03 13:21:48 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 897d846a-e301-11ec-8f77-3e4fde57a633-190254 RunID 22199ab3-7268-4d2f-b797-f95c8dad8870 Attempt 1 TimerID 11 Duration 10s
+process activity elapsed 310.491917ms
+process activity elapsed 467.915625ms
+recevie poll request 2022-06-03 13:21:48.378805 +0700 +07 m=+6.524179417
+recevie poll request started 172.834µs
+recevie poll request 2022-06-03 13:21:48.378508 +0700 +07 m=+6.523882376
+recevie poll request started 482.291µs
+recevie poll request 2022-06-03 13:21:48.378702 +0700 +07 m=+6.524076167
+recevie poll request started 299.542µs
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 82d99fa4-e301-11ec-8eeb-3e4fde57a633-175833 RunID 141bcb85-b57f-4219-a784-a77c5e1d1b16 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:48.378501 +0700 +07 m=+6.523876751
+2022/06/03 13:21:48 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 7c7252b4-e301-11ec-8e83-3e4fde57a633-157490 RunID 6757ccea-0897-4946-8cc9-5f0c6e8138dd Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:48.378759 +0700 +07 m=+6.524133001
+recevie poll request started 345.75µs
+recevie poll request 2022-06-03 13:21:48.378856 +0700 +07 m=+6.524230167
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 86233710-e301-11ec-8f0d-3e4fde57a633-184066 RunID 3a0fe6f8-01ee-4595-96f9-85259b5a05f9 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request started 263.042µs
+recevie poll request started 550.958µs
+poll wait time 1.051ms
+recevie poll request 2022-06-03 13:21:48.379554 +0700 +07 m=+6.524928126
+recevie poll request started 10.791µs
+recevie poll request 2022-06-03 13:21:48.379571 +0700 +07 m=+6.524945542
+recevie poll request started 13.125µs
+poll wait time 833.625µs
+recevie poll request 2022-06-03 13:21:48.3796 +0700 +07 m=+6.524973959
+process activity elapsed 392.251667ms
+process activity elapsed 313.193208ms
+recevie poll request started 14.042µs
+process activity elapsed 468.381958ms
+process activity elapsed 311.695834ms
+process activity elapsed 468.861958ms
+process activity elapsed 468.636667ms
+process activity elapsed 311.619125ms
+process activity elapsed 311.460708ms
+recevie poll request 2022-06-03 13:21:48.379691 +0700 +07 m=+6.525065376
+recevie poll request started 54.333µs
+process activity elapsed 1.073987417s
+process activity elapsed 392.27625ms
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 7eeb7fc0-e301-11ec-8eb5-3e4fde57a633-164431 RunID 0021f79d-4181-4e30-8c5b-1b4f0f8365d2 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 83b1ec6a-e301-11ec-8eed-3e4fde57a633-178299 RunID 7834b423-6dda-467d-81a9-ec522c92f162 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8cac5404-e301-11ec-8fa0-3e4fde57a633-195201 RunID c465c8c5-28d4-4a93-84a4-2a19351eba7b Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+poll wait time 1.754125ms
+poll wait time 1.788291ms
+poll wait time 2.68825ms
+poll wait time 2.64825ms
+poll wait time 3.237833ms
+poll wait time 3.663542ms
+poll wait time 3.83025ms
+poll wait time 4.605792ms
+poll wait time 4.748208ms
+poll wait time 5.559583ms
+poll wait time 5.699167ms
+poll wait time 6.587416ms
+poll wait time 7.59375ms
+poll wait time 8.520417ms
+poll wait time 9.106667ms
+recevie poll request 2022-06-03 13:21:48.488091 +0700 +07 m=+6.633468334
+recevie poll request started 106.792µs
+poll wait time 7.041µs
+process activity elapsed 314.750666ms
+process activity elapsed 314.989334ms
+recevie poll request 2022-06-03 13:21:48.488577 +0700 +07 m=+6.633953792
+recevie poll request started 11.25µs
+poll wait time 1.625µs
+process activity elapsed 314.783375ms
+process activity elapsed 314.976709ms
+process activity elapsed 314.908417ms
+process activity elapsed 314.967542ms
+process activity elapsed 312.761542ms
+recevie poll request 2022-06-03 13:21:48.488728 +0700 +07 m=+6.634105001
+recevie poll request started 5.666µs
+process activity elapsed 314.979291ms
+recevie poll request 2022-06-03 13:21:48.48877 +0700 +07 m=+6.634146959
+recevie poll request 2022-06-03 13:21:48.488801 +0700 +07 m=+6.634178501
+recevie poll request started 27.541µs
+recevie poll request 2022-06-03 13:21:48.488862 +0700 +07 m=+6.634239209
+recevie poll request started 18.833µs
+recevie poll request 2022-06-03 13:21:48.488936 +0700 +07 m=+6.634313417
+recevie poll request started 42.042µs
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 80c5258a-e301-11ec-8ee1-3e4fde57a633-170140 RunID 2afb96ba-939f-4373-9e80-f4586c85cfaa Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:48.489201 +0700 +07 m=+6.634578376
+recevie poll request started 12.416µs
+poll wait time 483.416µs
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 95042e92-e301-11ec-9056-3e4fde57a633-217213 RunID a66c1d01-b86e-415d-8d92-e2189a53f9da Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 7fcef426-e301-11ec-8ec3-3e4fde57a633-166991 RunID 1564e367-eb9e-42f9-b2bb-a2125a96218c Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request started 34.875µs
+recevie poll request 2022-06-03 13:21:48.489614 +0700 +07 m=+6.634991001
+recevie poll request started 23.958µs
+process activity elapsed 312.833625ms
+process activity elapsed 315.374958ms
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 81704140-e301-11ec-8ee3-3e4fde57a633-172061 RunID bda7ec00-0901-4e91-a5ac-86a0dde12364 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 84f31fea-e301-11ec-8efa-3e4fde57a633-181342 RunID 6de6bba2-eccc-4663-9cb7-364c7f2f998e Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:48.489436 +0700 +07 m=+6.634813501
+recevie poll request started 472.291µs
+poll wait time 387.834µs
+recevie poll request 2022-06-03 13:21:48.489625 +0700 +07 m=+6.635002042
+recevie poll request started 345µs
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 849c4972-e301-11ec-8ef3-3e4fde57a633-180372 RunID 91e6d4d0-591a-4e8a-87a7-110eb3c46cb9 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:48 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 84634168-e301-11ec-8eef-3e4fde57a633-179819 RunID 3772fdc2-15a8-4ac2-b46b-3efcf8676549 Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 88899332-e301-11ec-8f59-3e4fde57a633-187820 RunID 35e7d7fe-38ab-4d9b-8046-ac6dda8f9271 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 908086f4-e301-11ec-901a-3e4fde57a633-205859 RunID 751fdfc7-11df-4b69-9b43-cc8480e6d166 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+poll wait time 2.040125ms
+poll wait time 2.531458ms
+poll wait time 3.366375ms
+poll wait time 3.67775ms
+poll wait time 4.702375ms
+poll wait time 5.44625ms
+poll wait time 6.377708ms
+process activity elapsed 222.751709ms
+process activity elapsed 223.295667ms
+process activity elapsed 329.441417ms
+process activity elapsed 222.987791ms
+process activity elapsed 222.769416ms
+process activity elapsed 223.042ms
+process activity elapsed 327.340916ms
+process activity elapsed 223.231666ms
+process activity elapsed 222.901667ms
+process activity elapsed 223.442667ms
+process activity elapsed 223.107083ms
+recevie poll request 2022-06-03 13:21:48.505707 +0700 +07 m=+6.651084542
+process activity elapsed 225.5365ms
+process activity elapsed 226.033084ms
+recevie poll request started 11.125µs
+poll wait time 875ns
+recevie poll request 2022-06-03 13:21:48.505734 +0700 +07 m=+6.651111792
+recevie poll request started 8.25µs
+poll wait time 584ns
+recevie poll request 2022-06-03 13:21:48.505727 +0700 +07 m=+6.651104126
+recevie poll request started 54.541µs
+process activity elapsed 225.113625ms
+process activity elapsed 225.362458ms
+recevie poll request 2022-06-03 13:21:48.505801 +0700 +07 m=+6.651178667
+recevie poll request started 6.25µs
+recevie poll request 2022-06-03 13:21:48.505802 +0700 +07 m=+6.651179501
+recevie poll request started 18.291µs
+recevie poll request 2022-06-03 13:21:48.505816 +0700 +07 m=+6.651193209
+recevie poll request started 19.333µs
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8a9d2850-e301-11ec-8f80-3e4fde57a633-191486 RunID a062a01b-01d5-45b0-b741-f7e52c43b851 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:48.505847 +0700 +07 m=+6.651224417
+recevie poll request started 39.959µs
+recevie poll request 2022-06-03 13:21:48.50585 +0700 +07 m=+6.651228084
+recevie poll request started 47.542µs
+poll wait time 1.115375ms
+poll wait time 2.061833ms
+poll wait time 3.04925ms
+poll wait time 4.03725ms
+poll wait time 4.987084ms
+poll wait time 5.983375ms
+process activity elapsed 153.298417ms
+recevie poll request 2022-06-03 13:21:48.53205 +0700 +07 m=+6.677428209
+recevie poll request started 27.875µs
+poll wait time 1µs
+recevie poll request 2022-06-03 13:21:48.532082 +0700 +07 m=+6.677460501
+recevie poll request started 22.875µs
+process activity elapsed 153.278792ms
+recevie poll request 2022-06-03 13:21:48.532147 +0700 +07 m=+6.677525126
+recevie poll request started 39.541µs
+recevie poll request 2022-06-03 13:21:48.532188 +0700 +07 m=+6.677566042
+recevie poll request started 19.792µs
+2022/06/03 13:21:48 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID d981cc46-e301-11ec-9286-3e4fde57a633-375208 RunID 87896940-11e3-4530-8645-853f721c5176 Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 73dc11f8-e301-11ec-8df1-3e4fde57a633-132771 RunID 2712c6dc-f296-4626-81a0-ef4d7948546b Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 803c2fc8-e301-11ec-8ed3-3e4fde57a633-168838 RunID a0327bf8-85b5-4fe0-85f7-5d0e27228421 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 86263226-e301-11ec-8f0d-3e4fde57a633-184133 RunID 540d92e9-d09b-4b75-bc4b-ab88a78e7c4a Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+poll wait time 1.148083ms
+poll wait time 1.932334ms
+process activity elapsed 156.273666ms
+recevie poll request 2022-06-03 13:21:48.534533 +0700 +07 m=+6.679911709
+recevie poll request started 25.833µs
+process activity elapsed 156.026708ms
+recevie poll request 2022-06-03 13:21:48.534562 +0700 +07 m=+6.679940292
+recevie poll request started 64.75µs
+poll wait time 1.292µs
+process activity elapsed 155.937209ms
+process activity elapsed 156.172042ms
+process activity elapsed 154.916667ms
+recevie poll request 2022-06-03 13:21:48.534708 +0700 +07 m=+6.680086501
+recevie poll request started 8.375µs
+recevie poll request 2022-06-03 13:21:48.53474 +0700 +07 m=+6.680118334
+recevie poll request started 17.625µs
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID dfe55436-e301-11ec-9298-3e4fde57a633-385649 RunID 653ca2f5-fbb6-49aa-8ebf-3190119fbaf2 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:48.534808 +0700 +07 m=+6.680187084
+recevie poll request started 123.417µs
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 80c765c0-e301-11ec-8ee1-3e4fde57a633-170213 RunID ac7d3ef7-3d37-41dd-a551-004f3212c4d9 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 7f5a2e5c-e301-11ec-8eb6-3e4fde57a633-165760 RunID 5b1b8156-d2f7-4529-9c50-253fac2f4699 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+poll wait time 2.882709ms
+2022/06/03 13:21:48 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 82de1ff2-e301-11ec-8eeb-3e4fde57a633-175956 RunID 3ee27573-9f14-4b59-b80e-8d97ef6bdad0 Attempt 1 TimerID 11 Duration 10s
+poll wait time 1.948625ms
+poll wait time 2.516833ms
+poll wait time 3.423166ms
+poll wait time 4.453833ms
+process activity elapsed 105.286958ms
+recevie poll request 2022-06-03 13:21:48.595184 +0700 +07 m=+6.740564126
+recevie poll request started 35.25µs
+poll wait time 1.875µs
+process activity elapsed 105.488792ms
+process activity elapsed 105.671958ms
+process activity elapsed 105.87675ms
+recevie poll request 2022-06-03 13:21:48.595431 +0700 +07 m=+6.740811209
+recevie poll request started 27.875µs
+poll wait time 2.042µs
+process activity elapsed 105.914292ms
+process activity elapsed 106.324291ms
+process activity elapsed 105.9915ms
+recevie poll request 2022-06-03 13:21:48.595647 +0700 +07 m=+6.741026417
+recevie poll request started 21.209µs
+process activity elapsed 90.073042ms
+process activity elapsed 217.298875ms
+process activity elapsed 90.178125ms
+process activity elapsed 90.212334ms
+process activity elapsed 90.255125ms
+process activity elapsed 107.113333ms
+process activity elapsed 90.35325ms
+process activity elapsed 106.627583ms
+recevie poll request 2022-06-03 13:21:48.596224 +0700 +07 m=+6.741603917
+recevie poll request started 29.042µs
+poll wait time 2.041µs
+recevie poll request 2022-06-03 13:21:48.596273 +0700 +07 m=+6.741652709
+recevie poll request started 38.292µs
+process activity elapsed 90.554792ms
+recevie poll request 2022-06-03 13:21:48.596254 +0700 +07 m=+6.741633751
+recevie poll request started 133.166µs
+recevie poll request 2022-06-03 13:21:48.596263 +0700 +07 m=+6.741642959
+recevie poll request started 156.75µs
+2022/06/03 13:21:48 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 84639a1e-e301-11ec-8eef-3e4fde57a633-179881 RunID a6ffd528-ff80-40cf-b9ad-d2998e9460d6 Attempt 1 TimerID 11 Duration 10s
+poll wait time 832.583µs
+2022/06/03 13:21:48 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 80b5f0ec-e301-11ec-8ed9-3e4fde57a633-169876 RunID 48e0a132-5f20-4003-ae6b-ccde694848aa Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 7f74d61c-e301-11ec-8ebc-3e4fde57a633-166268 RunID 4c4baaac-94dd-4644-be32-e6fe7698f7a0 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 78b85448-e301-11ec-8e24-3e4fde57a633-146061 RunID 20e89b59-0c1a-4ea0-b156-c151a516116f Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:48 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 92f4065e-e301-11ec-9037-3e4fde57a633-211848 RunID cdbb4922-84d2-4d69-93cc-d244f84d6d6b Attempt 1 TimerID 11 Duration 10s
+process activity elapsed 216.790625ms
+recevie poll request 2022-06-03 13:21:48.597094 +0700 +07 m=+6.742474167
+recevie poll request started 27.084µs
+2022/06/03 13:21:48 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 7e21a9ac-e301-11ec-8eb3-3e4fde57a633-163295 RunID ca516edc-949d-494d-b036-1542f1e5771c Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:48.597342 +0700 +07 m=+6.742722042
+recevie poll request started 32.084µs
+2022/06/03 13:21:48 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 80231826-e301-11ec-8ed3-3e4fde57a633-168391 RunID 6b45190b-a9c2-4865-aef8-5ba8c8b27576 Attempt 1 TimerID 11 Duration 10s
+poll wait time 1.929875ms
+poll wait time 2.195292ms
+poll wait time 3.214292ms
+poll wait time 3.278375ms
+poll wait time 4.028459ms
+process activity elapsed 219.922042ms
+recevie poll request 2022-06-03 13:21:48.752433 +0700 +07 m=+6.897816959
+recevie poll request started 55.458µs
+poll wait time 8.084µs
+recevie poll request 2022-06-03 13:21:48.752986 +0700 +07 m=+6.898369751
+recevie poll request started 27.625µs
+2022/06/03 13:21:48 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8e5037a8-e301-11ec-8fbe-3e4fde57a633-199863 RunID 1ee944e2-9458-49f0-ba5c-4f337d642c67 Attempt 1 TimerID 11 Duration 10s
+poll wait time 533.667µs
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 891b3e4a-e301-11ec-8f6c-3e4fde57a633-189238 RunID 87244daf-d41c-482e-aef8-ed5e792e6af0 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+process activity elapsed 378.550292ms
+process activity elapsed 544.814084ms
+process activity elapsed 644.123667ms
+process activity elapsed 418.783625ms
+recevie poll request 2022-06-03 13:21:48.924559 +0700 +07 m=+7.069947876
+recevie poll request started 26.916µs
+poll wait time 3.333µs
+recevie poll request 2022-06-03 13:21:48.924666 +0700 +07 m=+7.070054584
+recevie poll request started 24.542µs
+poll wait time 1.542µs
+process activity elapsed 545.95525ms
+process activity elapsed 418.953625ms
+process activity elapsed 751.097334ms
+process activity elapsed 545.238708ms
+recevie poll request 2022-06-03 13:21:48.924809 +0700 +07 m=+7.070197126
+recevie poll request started 26.458µs
+process activity elapsed 751.26225ms
+process activity elapsed 546.05275ms
+process activity elapsed 546.288375ms
+process activity elapsed 546.221667ms
+process activity elapsed 546.498375ms
+process activity elapsed 435.367583ms
+recevie poll request 2022-06-03 13:21:48.925014 +0700 +07 m=+7.070402376
+recevie poll request started 27.666µs
+recevie poll request 2022-06-03 13:21:48.92501 +0700 +07 m=+7.070397959
+recevie poll request started 54.083µs
+recevie poll request 2022-06-03 13:21:48.92507 +0700 +07 m=+7.070458334
+recevie poll request started 15.875µs
+recevie poll request 2022-06-03 13:21:48.925101 +0700 +07 m=+7.070489251
+recevie poll request 2022-06-03 13:21:48.925066 +0700 +07 m=+7.070454001
+recevie poll request started 62.833µs
+recevie poll request started 9.541µs
+recevie poll request 2022-06-03 13:21:48.925116 +0700 +07 m=+7.070504001
+recevie poll request started 43µs
+recevie poll request 2022-06-03 13:21:48.925055 +0700 +07 m=+7.070443084
+recevie poll request started 120.417µs
+recevie poll request 2022-06-03 13:21:48.925075 +0700 +07 m=+7.070463042
+recevie poll request 2022-06-03 13:21:48.925148 +0700 +07 m=+7.070536709
+recevie poll request started 108.708µs
+recevie poll request started 163.375µs
+recevie poll request 2022-06-03 13:21:48.92518 +0700 +07 m=+7.070568501
+recevie poll request started 117.833µs
+2022/06/03 13:21:48 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 88da1460-e301-11ec-8f66-3e4fde57a633-188615 RunID 4afad55d-d71e-44af-b6b9-6542c7545bb1 Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:48 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 908086f4-e301-11ec-901a-3e4fde57a633-205859 RunID 751fdfc7-11df-4b69-9b43-cc8480e6d166 Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 83d4cf1e-e301-11ec-8eed-3e4fde57a633-178714 RunID d4579309-be56-4d86-a7d0-c3826c06c8f2 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:48 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 706ad27a-e301-11ec-8dbd-3e4fde57a633-123678 RunID c6392513-647b-4e8d-b62c-a540f94e1bb2 Attempt 1 ActivityID 18 ActivityType DelayHello
+poll wait time 783.791µs
+poll wait time 692.583µs
+poll wait time 1.616291ms
+poll wait time 1.792292ms
+poll wait time 2.477083ms
+poll wait time 2.711083ms
+poll wait time 3.636958ms
+poll wait time 4.601459ms
+poll wait time 5.589791ms
+poll wait time 6.489417ms
+poll wait time 7.443625ms
+recevie poll request 2022-06-03 13:21:49.094316 +0700 +07 m=+7.239708792
+recevie poll request started 18.459µs
+poll wait time 709ns
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 81667296-e301-11ec-8ee3-3e4fde57a633-172018 RunID 1ef12668-8cea-4b33-bad9-955a0e651d55 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:49.094486 +0700 +07 m=+7.239878417
+recevie poll request started 6.5µs
+2022/06/03 13:21:49 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 83a20e9e-e301-11ec-8eec-3e4fde57a633-178098 RunID 552f1dc0-0232-4f6b-a38e-af030a7ec7de Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:49.094529 +0700 +07 m=+7.239922042
+recevie poll request started 12.625µs
+recevie poll request 2022-06-03 13:21:49.094515 +0700 +07 m=+7.239907751
+recevie poll request started 41.625µs
+poll wait time 500ns
+process activity elapsed 559.846875ms
+recevie poll request 2022-06-03 13:21:49.094571 +0700 +07 m=+7.239963334
+recevie poll request started 8.208µs
+recevie poll request 2022-06-03 13:21:49.09455 +0700 +07 m=+7.239943126
+recevie poll request started 37.666µs
+process activity elapsed 559.785834ms
+process activity elapsed 560.03875ms
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8f88d77e-e301-11ec-900f-3e4fde57a633-203621 RunID c212950a-7cdb-4dc2-b6ef-0bbf7ee88d5a Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+process activity elapsed 497.814625ms
+recevie poll request 2022-06-03 13:21:49.094604 +0700 +07 m=+7.239996709
+recevie poll request started 17.333µs
+process activity elapsed 559.86775ms
+process activity elapsed 497.667417ms
+process activity elapsed 497.434209ms
+process activity elapsed 497.976292ms
+recevie poll request 2022-06-03 13:21:49.094628 +0700 +07 m=+7.240021042
+recevie poll request started 23.834µs
+process activity elapsed 559.740125ms
+process activity elapsed 497.919041ms
+recevie poll request 2022-06-03 13:21:49.094675 +0700 +07 m=+7.240068042
+recevie poll request started 11.542µs
+process activity elapsed 562.494375ms
+recevie poll request 2022-06-03 13:21:49.094662 +0700 +07 m=+7.240055209
+recevie poll request started 66.25µs
+process activity elapsed 562.4845ms
+recevie poll request 2022-06-03 13:21:49.094675 +0700 +07 m=+7.240067959
+recevie poll request started 68.583µs
+process activity elapsed 341.232333ms
+recevie poll request 2022-06-03 13:21:49.094683 +0700 +07 m=+7.240075751
+recevie poll request started 72.458µs
+recevie poll request 2022-06-03 13:21:49.094703 +0700 +07 m=+7.240096001
+recevie poll request started 58.583µs
+recevie poll request 2022-06-03 13:21:49.094764 +0700 +07 m=+7.240156376
+recevie poll request started 11.458µs
+recevie poll request 2022-06-03 13:21:49.094739 +0700 +07 m=+7.240132251
+recevie poll request started 44µs
+process activity elapsed 716.114541ms
+recevie poll request 2022-06-03 13:21:49.094734 +0700 +07 m=+7.240126376
+process activity elapsed 497.391792ms
+process activity elapsed 715.052875ms
+process activity elapsed 341.643417ms
+process activity elapsed 498.922167ms
+recevie poll request 2022-06-03 13:21:49.094653 +0700 +07 m=+7.240045501
+recevie poll request started 182.541µs
+process activity elapsed 499.305ms
+process activity elapsed 605.306542ms
+recevie poll request started 67.875µs
+recevie poll request 2022-06-03 13:21:49.09466 +0700 +07 m=+7.240052334
+recevie poll request started 194.125µs
+recevie poll request 2022-06-03 13:21:49.094861 +0700 +07 m=+7.240253751
+recevie poll request started 52.291µs
+recevie poll request 2022-06-03 13:21:49.094849 +0700 +07 m=+7.240241626
+recevie poll request started 81.083µs
+recevie poll request 2022-06-03 13:21:49.094826 +0700 +07 m=+7.240219042
+recevie poll request started 110.334µs
+recevie poll request 2022-06-03 13:21:49.09485 +0700 +07 m=+7.240242876
+recevie poll request started 93.125µs
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8137cbee-e301-11ec-8ee3-3e4fde57a633-171497 RunID 630c7bdb-928f-42f7-8e54-258648e388ee Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+process activity elapsed 498.292375ms
+2022/06/03 13:21:49 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8b474330-e301-11ec-8f83-3e4fde57a633-192618 RunID 46b946bc-7c8c-4568-863f-546ad67ea2c6 Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:49 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 84f31fea-e301-11ec-8efa-3e4fde57a633-181342 RunID 6de6bba2-eccc-4663-9cb7-364c7f2f998e Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:49 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 85670158-e301-11ec-8f06-3e4fde57a633-182251 RunID f617a994-7ed7-4ca4-9302-3106db2d1b68 Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8f722560-e301-11ec-9005-3e4fde57a633-203174 RunID 70891725-8317-4a9a-9743-f463bc518dc9 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8756320e-e301-11ec-8f12-3e4fde57a633-185327 RunID afa15b0c-73f1-41e4-9ea0-6247cc88d130 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 7a87594a-e301-11ec-8e5e-3e4fde57a633-152731 RunID a83bd57d-40d9-45a1-8689-4dfbf720b03d Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 87956d8e-e301-11ec-8f16-3e4fde57a633-185790 RunID 2230fbf8-5e86-4f82-ab50-b629ee53f0ee Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8a61dc8c-e301-11ec-8f80-3e4fde57a633-191283 RunID 07b279c8-6e7b-4a3c-9823-6a37cd1158bc Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 87fce112-e301-11ec-8f1c-3e4fde57a633-186602 RunID 061f09ff-97ac-4e34-8ae9-fe804e065398 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 844f2a66-e301-11ec-8eef-3e4fde57a633-179623 RunID 38fa57d3-5930-4c5f-b9bd-05398916d7e7 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+poll wait time 1.11175ms
+poll wait time 1.072333ms
+poll wait time 1.971375ms
+poll wait time 1.957584ms
+poll wait time 2.886125ms
+poll wait time 2.92475ms
+poll wait time 3.782ms
+poll wait time 3.858542ms
+poll wait time 4.691625ms
+poll wait time 4.857333ms
+poll wait time 5.700792ms
+poll wait time 5.807833ms
+poll wait time 6.68975ms
+poll wait time 6.654375ms
+poll wait time 7.631041ms
+poll wait time 8.632458ms
+poll wait time 9.617458ms
+poll wait time 10.56275ms
+poll wait time 11.575583ms
+poll wait time 12.543959ms
+process activity elapsed 680.111542ms
+recevie poll request 2022-06-03 13:21:49.212174 +0700 +07 m=+7.357569459
+recevie poll request started 13.833µs
+poll wait time 1.292µs
+recevie poll request 2022-06-03 13:21:49.212195 +0700 +07 m=+7.357590834
+recevie poll request started 9.958µs
+poll wait time 542ns
+recevie poll request 2022-06-03 13:21:49.212211 +0700 +07 m=+7.357607084
+recevie poll request started 11.5µs
+process activity elapsed 287.238459ms
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 827bf5ac-e301-11ec-8ee9-3e4fde57a633-174768 RunID a0fbeb1a-ac46-40d9-991a-9e7263d5513d Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+process activity elapsed 287.159625ms
+recevie poll request 2022-06-03 13:21:49.212334 +0700 +07 m=+7.357729459
+recevie poll request started 9.292µs
+process activity elapsed 287.267125ms
+recevie poll request 2022-06-03 13:21:49.212323 +0700 +07 m=+7.357718834
+recevie poll request started 43.917µs
+process activity elapsed 287.212542ms
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 858352c2-e301-11ec-8f07-3e4fde57a633-182711 RunID f45586e2-edee-4cd9-a7a2-6c2b8829a7e3 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+process activity elapsed 287.196459ms
+process activity elapsed 287.057375ms
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 95d55828-e301-11ec-9060-3e4fde57a633-218839 RunID bdaddfe7-159b-4bcb-8979-c604c605014f Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 896c898a-e301-11ec-8f77-3e4fde57a633-189972 RunID f6e4f04f-ce21-4289-b9cb-5c8725f860c6 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:49.213028 +0700 +07 m=+7.358423584
+recevie poll request started 7.417µs
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 7780bae8-e301-11ec-8e16-3e4fde57a633-142167 RunID 89347e70-04de-4032-97e0-7fcaf2535e14 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:49.213218 +0700 +07 m=+7.358614334
+recevie poll request started 7.667µs
+recevie poll request 2022-06-03 13:21:49.213233 +0700 +07 m=+7.358628376
+recevie poll request 2022-06-03 13:21:49.213235 +0700 +07 m=+7.358631042
+recevie poll request started 7.75µs
+poll wait time 416ns
+recevie poll request started 4.166µs
+recevie poll request 2022-06-03 13:21:49.213273 +0700 +07 m=+7.358669084
+recevie poll request started 16.125µs
+poll wait time 1.059041ms
+recevie poll request 2022-06-03 13:21:49.213311 +0700 +07 m=+7.358706417
+recevie poll request started 12.917µs
+recevie poll request 2022-06-03 13:21:49.213312 +0700 +07 m=+7.358708292
+2022/06/03 13:21:49 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 81e81288-e301-11ec-8ee6-3e4fde57a633-172819 RunID 9baa513b-b9b8-42ac-89e0-20f92f3f29f6 Attempt 1 TimerID 11 Duration 10s
+recevie poll request started 20µs
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 84914112-e301-11ec-8eef-3e4fde57a633-180015 RunID d21d6df8-7470-4f85-a82f-d07680dceaf3 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:49 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 835817da-e301-11ec-8eec-3e4fde57a633-177518 RunID 31a4e69f-f107-4913-9154-5f608ef7585b Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:49 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 81704140-e301-11ec-8ee3-3e4fde57a633-172061 RunID bda7ec00-0901-4e91-a5ac-86a0dde12364 Attempt 1 TimerID 11 Duration 10s
+poll wait time 1.024708ms
+poll wait time 2.0835ms
+poll wait time 2.960542ms
+poll wait time 3.297375ms
+poll wait time 4.132292ms
+poll wait time 5.06825ms
+poll wait time 6.041666ms
+poll wait time 6.978708ms
+recevie poll request 2022-06-03 13:21:49.297906 +0700 +07 m=+7.443303792
+recevie poll request started 19.25µs
+poll wait time 1.875µs
+recevie poll request 2022-06-03 13:21:49.297933 +0700 +07 m=+7.443331376
+recevie poll request started 11.125µs
+poll wait time 750ns
+recevie poll request 2022-06-03 13:21:49.298031 +0700 +07 m=+7.443429417
+recevie poll request started 15.917µs
+process activity elapsed 373.006959ms
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 90fd32ee-e301-11ec-9021-3e4fde57a633-207342 RunID b12ff13e-d871-40ef-9456-31375be1f06f Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:49.298087 +0700 +07 m=+7.443484751
+recevie poll request started 13.583µs
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8ea24cfa-e301-11ec-8fdf-3e4fde57a633-200926 RunID 267f0845-d9be-409a-b138-8c9dbeeb923d Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+process activity elapsed 372.976667ms
+process activity elapsed 373.469709ms
+recevie poll request 2022-06-03 13:21:49.298147 +0700 +07 m=+7.443545084
+recevie poll request 2022-06-03 13:21:49.298162 +0700 +07 m=+7.443559667
+recevie poll request started 15.417µs
+process activity elapsed 203.56075ms
+recevie poll request 2022-06-03 13:21:49.298186 +0700 +07 m=+7.443583876
+recevie poll request started 10.25µs
+process activity elapsed 203.382584ms
+recevie poll request 2022-06-03 13:21:49.298182 +0700 +07 m=+7.443579667
+recevie poll request started 30µs
+process activity elapsed 373.019958ms
+process activity elapsed 203.497667ms
+recevie poll request 2022-06-03 13:21:49.298221 +0700 +07 m=+7.443619209
+recevie poll request started 9.25µs
+recevie poll request 2022-06-03 13:21:49.298157 +0700 +07 m=+7.443554584
+recevie poll request 2022-06-03 13:21:49.298236 +0700 +07 m=+7.443634459
+process activity elapsed 203.573666ms
+process activity elapsed 203.641125ms
+process activity elapsed 203.787042ms
+process activity elapsed 203.693125ms
+recevie poll request started 13.708µs
+recevie poll request 2022-06-03 13:21:49.2983 +0700 +07 m=+7.443698417
+recevie poll request started 15.5µs
+process activity elapsed 203.43725ms
+recevie poll request 2022-06-03 13:21:49.298257 +0700 +07 m=+7.443654834
+recevie poll request started 76.5µs
+recevie poll request started 17.167µs
+process activity elapsed 203.315625ms
+recevie poll request 2022-06-03 13:21:49.298297 +0700 +07 m=+7.443694876
+recevie poll request started 57.291µs
+recevie poll request started 82.833µs
+process activity elapsed 203.925334ms
+process activity elapsed 203.521125ms
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID f49cfbb8-e301-11ec-92db-3e4fde57a633-432861 RunID 4593c9eb-134a-4935-8c95-1410dca148eb Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:49 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 82454408-e301-11ec-8ee6-3e4fde57a633-173957 RunID fc7031ef-bece-4a98-a227-2099ec2a7a9e Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 858c94a4-e301-11ec-8f09-3e4fde57a633-182831 RunID 2f8a9cf8-4d54-43c5-967c-26994c04f36d Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 85157680-e301-11ec-8f05-3e4fde57a633-181674 RunID d17060af-9fc0-4ac2-b09f-4e34b919b345 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+poll wait time 1.031375ms
+poll wait time 990.958µs
+poll wait time 1.756666ms
+poll wait time 1.9165ms
+poll wait time 2.862042ms
+poll wait time 2.759625ms
+poll wait time 3.86575ms
+poll wait time 3.761667ms
+poll wait time 4.728834ms
+poll wait time 4.874125ms
+poll wait time 5.776208ms
+poll wait time 6.709042ms
+recevie poll request 2022-06-03 13:21:49.515993 +0700 +07 m=+7.661396626
+recevie poll request started 18.916µs
+poll wait time 1.541µs
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 87966504-e301-11ec-8f18-3e4fde57a633-185885 RunID c0bc80a6-a194-4f5f-a6a8-11d91476a640 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:49.518268 +0700 +07 m=+7.663672001
+recevie poll request started 15.583µs
+poll wait time 1.166µs
+process activity elapsed 423.578125ms
+process activity elapsed 423.518417ms
+process activity elapsed 423.634209ms
+process activity elapsed 423.772333ms
+recevie poll request 2022-06-03 13:21:49.518348 +0700 +07 m=+7.663751751
+recevie poll request started 15.458µs
+process activity elapsed 423.685041ms
+recevie poll request 2022-06-03 13:21:49.518374 +0700 +07 m=+7.663778042
+recevie poll request started 7.375µs
+recevie poll request 2022-06-03 13:21:49.518391 +0700 +07 m=+7.663795251
+recevie poll request started 4.625µs
+recevie poll request 2022-06-03 13:21:49.518405 +0700 +07 m=+7.663808334
+recevie poll request started 4.833µs
+recevie poll request 2022-06-03 13:21:49.518412 +0700 +07 m=+7.663815334
+recevie poll request started 18.333µs
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 84e96edc-e301-11ec-8efa-3e4fde57a633-181256 RunID 2a20bdaf-3131-4388-9448-7c956748258b Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:49 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 86263226-e301-11ec-8f0d-3e4fde57a633-184133 RunID 540d92e9-d09b-4b75-bc4b-ab88a78e7c4a Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:49 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 7f5a2e5c-e301-11ec-8eb6-3e4fde57a633-165760 RunID 5b1b8156-d2f7-4529-9c50-253fac2f4699 Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:49.518393 +0700 +07 m=+7.663796501
+recevie poll request started 126.125µs
+recevie poll request 2022-06-03 13:21:49.518524 +0700 +07 m=+7.663927501
+recevie poll request started 10.791µs
+recevie poll request 2022-06-03 13:21:49.518443 +0700 +07 m=+7.663847126
+recevie poll request 2022-06-03 13:21:49.518416 +0700 +07 m=+7.663819876
+recevie poll request started 138.666µs
+2022/06/03 13:21:49 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 82d99fa4-e301-11ec-8eeb-3e4fde57a633-175833 RunID 141bcb85-b57f-4219-a784-a77c5e1d1b16 Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:49 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 891b3e4a-e301-11ec-8f6c-3e4fde57a633-189238 RunID 87244daf-d41c-482e-aef8-ed5e792e6af0 Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:49.518604 +0700 +07 m=+7.664008251
+recevie poll request started 10.916µs
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 88179fb6-e301-11ec-8f1c-3e4fde57a633-186797 RunID c13963f9-87ab-4577-9cbc-6239934be700 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+poll wait time 667ns
+recevie poll request started 100.291µs
+recevie poll request 2022-06-03 13:21:49.518456 +0700 +07 m=+7.663860084
+recevie poll request started 213.75µs
+2022/06/03 13:21:49 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8887db28-e301-11ec-8f59-3e4fde57a633-187748 RunID c775378b-6ebe-4a06-92c4-37589ca70fef Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 911f19ea-e301-11ec-9026-3e4fde57a633-208107 RunID dfa32b37-b17b-4d92-9fb1-8c2262c97bfa Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:49 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 80c52652-e301-11ec-8ee1-3e4fde57a633-170141 RunID ef77f849-2123-4dda-b538-af640c4dbd05 Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:49 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 80c765c0-e301-11ec-8ee1-3e4fde57a633-170213 RunID ac7d3ef7-3d37-41dd-a551-004f3212c4d9 Attempt 1 TimerID 11 Duration 10s
+poll wait time 1.096041ms
+poll wait time 854.291µs
+poll wait time 2.009625ms
+poll wait time 3.025708ms
+poll wait time 4.0275ms
+poll wait time 4.902916ms
+poll wait time 5.881ms
+poll wait time 6.869125ms
+poll wait time 7.853584ms
+poll wait time 8.778667ms
+process activity elapsed 388.827584ms
+recevie poll request 2022-06-03 13:21:49.60213 +0700 +07 m=+7.747535542
+recevie poll request started 30.125µs
+poll wait time 2.375µs
+process activity elapsed 388.956542ms
+process activity elapsed 507.701208ms
+process activity elapsed 390.008791ms
+process activity elapsed 507.400208ms
+recevie poll request 2022-06-03 13:21:49.602266 +0700 +07 m=+7.747671959
+recevie poll request started 10.625µs
+process activity elapsed 677.059833ms
+process activity elapsed 389.02475ms
+process activity elapsed 677.289958ms
+recevie poll request 2022-06-03 13:21:49.602291 +0700 +07 m=+7.747697167
+process activity elapsed 389.284333ms
+process activity elapsed 389.957875ms
+recevie poll request 2022-06-03 13:21:49.602335 +0700 +07 m=+7.747741376
+recevie poll request started 13.791µs
+process activity elapsed 390.02625ms
+process activity elapsed 389.950292ms
+recevie poll request 2022-06-03 13:21:49.602327 +0700 +07 m=+7.747733001
+recevie poll request started 60.75µs
+2022/06/03 13:21:49 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 812609fe-e301-11ec-8ee3-3e4fde57a633-171346 RunID 8248aa6b-84cb-4413-a461-ae6c08c1b21d Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 85b5b4c4-e301-11ec-8f0b-3e4fde57a633-183244 RunID 68ce19f2-4a91-4eb5-8c44-7e4cea36dd2c Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:49 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 88edfb88-e301-11ec-8f66-3e4fde57a633-188739 RunID 6333658a-1cc2-4d19-b065-092ed2b9e8e8 Attempt 1 TimerID 11 Duration 10s
+process activity elapsed 389.194583ms
+recevie poll request 2022-06-03 13:21:49.602372 +0700 +07 m=+7.747777709
+recevie poll request 2022-06-03 13:21:49.602481 +0700 +07 m=+7.747886834
+recevie poll request started 17.375µs
+recevie poll request started 112.75µs
+process activity elapsed 389.080292ms
+recevie poll request 2022-06-03 13:21:49.602499 +0700 +07 m=+7.747905001
+recevie poll request started 42.458µs
+recevie poll request 2022-06-03 13:21:49.602515 +0700 +07 m=+7.747920876
+recevie poll request started 51.333µs
+process activity elapsed 390.11975ms
+process activity elapsed 507.746959ms
+recevie poll request 2022-06-03 13:21:49.602427 +0700 +07 m=+7.747832792
+recevie poll request started 180.959µs
+process activity elapsed 388.956625ms
+2022/06/03 13:21:49 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID d167c920-e301-11ec-923c-3e4fde57a633-358690 RunID 79859c83-e10f-4ce2-9f85-cb1452393af2 Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 7d6f4438-e301-11ec-8ea7-3e4fde57a633-160797 RunID 7ca6ea5f-b05f-4cae-aa48-dd2c0f960a9a Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+poll wait time 1.125µs
+recevie poll request started 25µs
+process activity elapsed 677.204209ms
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 7e735d92-e301-11ec-8eb4-3e4fde57a633-163677 RunID e9b8c217-75ac-450b-8317-8f05baa717fb Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 809a03b4-e301-11ec-8ed9-3e4fde57a633-169692 RunID 82a3889e-3856-4abf-bfe6-3702d1d1d8ec Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:49 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 78b85448-e301-11ec-8e24-3e4fde57a633-146061 RunID 20e89b59-0c1a-4ea0-b156-c151a516116f Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:49.603282 +0700 +07 m=+7.748688042
+recevie poll request started 13.75µs
+process activity elapsed 305.043291ms
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 91a75fee-e301-11ec-9026-3e4fde57a633-209628 RunID c258980a-6f41-4ddc-ac55-f454c4f7f756 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:49.603442 +0700 +07 m=+7.748848376
+recevie poll request started 11.833µs
+process activity elapsed 305.304167ms
+process activity elapsed 508.747458ms
+recevie poll request 2022-06-03 13:21:49.603381 +0700 +07 m=+7.748786667
+recevie poll request started 114.75µs
+poll wait time 941.875µs
+poll wait time 1.260458ms
+process activity elapsed 508.609291ms
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8a22b7fa-e301-11ec-8f7c-3e4fde57a633-190705 RunID 3375d7e2-c121-478e-aabc-0a7cb50cf85c Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:49.603554 +0700 +07 m=+7.748960001
+recevie poll request started 106.708µs
+recevie poll request 2022-06-03 13:21:49.603668 +0700 +07 m=+7.749073959
+recevie poll request started 9.875µs
+poll wait time 2.021458ms
+poll wait time 966.875µs
+poll wait time 2.795125ms
+poll wait time 1.718125ms
+poll wait time 3.755458ms
+poll wait time 2.682375ms
+poll wait time 4.719ms
+poll wait time 5.680334ms
+poll wait time 6.495459ms
+poll wait time 7.021792ms
+poll wait time 7.810083ms
+recevie poll request 2022-06-03 13:21:49.717006 +0700 +07 m=+7.862414751
+recevie poll request started 87.041µs
+poll wait time 2.666µs
+recevie poll request 2022-06-03 13:21:49.717146 +0700 +07 m=+7.862554751
+recevie poll request started 17.958µs
+poll wait time 667ns
+process activity elapsed 419.015084ms
+recevie poll request 2022-06-03 13:21:49.717233 +0700 +07 m=+7.862641834
+recevie poll request started 10.417µs
+2022/06/03 13:21:49 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8cac5404-e301-11ec-8fa0-3e4fde57a633-195201 RunID c465c8c5-28d4-4a93-84a4-2a19351eba7b Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 81dfd8f2-e301-11ec-8ee6-3e4fde57a633-172696 RunID 2f99d619-c68e-4e96-aeb3-91ce444bc6a2 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:49.71729 +0700 +07 m=+7.862698501
+recevie poll request started 13.083µs
+recevie poll request 2022-06-03 13:21:49.71731 +0700 +07 m=+7.862719251
+recevie poll request started 4.041µs
+process activity elapsed 418.849083ms
+recevie poll request 2022-06-03 13:21:49.717322 +0700 +07 m=+7.862730417
+recevie poll request started 13.084µs
+recevie poll request 2022-06-03 13:21:49.717349 +0700 +07 m=+7.862757626
+recevie poll request started 6.375µs
+2022/06/03 13:21:49 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8a9b9256-e301-11ec-8f80-3e4fde57a633-191436 RunID f191a140-df19-44f8-966e-f85e7e7cea06 Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:49.717386 +0700 +07 m=+7.862795001
+recevie poll request started 11.333µs
+recevie poll request 2022-06-03 13:21:49.717404 +0700 +07 m=+7.862812917
+recevie poll request started 4.5µs
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 87fd179a-e301-11ec-8f1c-3e4fde57a633-186657 RunID 86c0429c-69e4-4987-ad4f-5c1b3f0477e9 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:49.717431 +0700 +07 m=+7.862840251
+recevie poll request started 14.083µs
+2022/06/03 13:21:49 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID e696c2d8-e301-11ec-92bf-3e4fde57a633-402603 RunID 2daced8c-f885-42c5-b781-20b5e4fe9f21 Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 85966312-e301-11ec-8f0b-3e4fde57a633-182944 RunID cdff27cb-3098-4a61-b7ba-cf4cf6d30de4 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:49.71747 +0700 +07 m=+7.862878667
+recevie poll request started 13.292µs
+2022/06/03 13:21:49 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 9037beec-e301-11ec-9016-3e4fde57a633-205138 RunID 7d6ff76a-bbc7-4593-9256-a22daf595095 Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:49 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 844f2a66-e301-11ec-8eef-3e4fde57a633-179623 RunID 38fa57d3-5930-4c5f-b9bd-05398916d7e7 Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:49.717526 +0700 +07 m=+7.862935251
+recevie poll request started 11.291µs
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 9037d13e-e301-11ec-9016-3e4fde57a633-205148 RunID 4f7e1aed-5647-4b61-8b57-8acba5c793b6 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:49.717567 +0700 +07 m=+7.862975667
+recevie poll request started 5.709µs
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 85b2e050-e301-11ec-8f0b-3e4fde57a633-183221 RunID e95bab6f-15d4-4b50-84c9-453c46f82cfb Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:49.717493 +0700 +07 m=+7.862901751
+recevie poll request started 105µs
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 92267da6-e301-11ec-9035-3e4fde57a633-210531 RunID 88648804-8ba0-4c13-b2fb-fbc8042e1c82 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:49 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 82a8b6a0-e301-11ec-8eea-3e4fde57a633-175267 RunID 84de626f-1afc-498b-9a12-25c98f1f06fd Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:49 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 7a87594a-e301-11ec-8e5e-3e4fde57a633-152731 RunID a83bd57d-40d9-45a1-8689-4dfbf720b03d Attempt 1 TimerID 11 Duration 10s
+poll wait time 1.049625ms
+poll wait time 2.015083ms
+poll wait time 3.009083ms
+poll wait time 3.963833ms
+poll wait time 4.964333ms
+poll wait time 5.945667ms
+poll wait time 6.925125ms
+poll wait time 7.824ms
+poll wait time 8.855ms
+poll wait time 9.760916ms
+recevie poll request 2022-06-03 13:21:49.7277 +0700 +07 m=+7.873109251
+recevie poll request started 9.125µs
+2022/06/03 13:21:49 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 7e23ad1a-e301-11ec-8eb3-3e4fde57a633-163332 RunID 1e9bdf35-7560-4379-8271-3a466e0d3589 Attempt 1 TimerID 11 Duration 10s
+poll wait time 10.693917ms
+poll wait time 11.721084ms
+poll wait time 2.534458ms
+process activity elapsed 640.097625ms
+process activity elapsed 419.798208ms
+process activity elapsed 639.921625ms
+process activity elapsed 640.119125ms
+recevie poll request 2022-06-03 13:21:49.938303 +0700 +07 m=+8.083717459
+recevie poll request started 24.5µs
+poll wait time 2.334µs
+process activity elapsed 640.464958ms
+process activity elapsed 420.018583ms
+process activity elapsed 640.289625ms
+process activity elapsed 640.375709ms
+process activity elapsed 420.02125ms
+process activity elapsed 419.940084ms
+process activity elapsed 420.1275ms
+process activity elapsed 420.003584ms
+process activity elapsed 640.321042ms
+recevie poll request 2022-06-03 13:21:49.93849 +0700 +07 m=+8.083904917
+recevie poll request started 73.084µs
+process activity elapsed 422.46875ms
+process activity elapsed 420.121ms
+process activity elapsed 640.233541ms
+process activity elapsed 640.26025ms
+process activity elapsed 843.7005ms
+process activity elapsed 419.918083ms
+process activity elapsed 419.998166ms
+process activity elapsed 420.100208ms
+recevie poll request 2022-06-03 13:21:49.938558 +0700 +07 m=+8.083972542
+recevie poll request started 83.917µs
+recevie poll request 2022-06-03 13:21:49.938648 +0700 +07 m=+8.084062376
+recevie poll request started 20.333µs
+2022/06/03 13:21:49 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8137cbee-e301-11ec-8ee3-3e4fde57a633-171497 RunID 630c7bdb-928f-42f7-8e54-258648e388ee Attempt 1 TimerID 11 Duration 10s
+poll wait time 709ns
+recevie poll request 2022-06-03 13:21:49.938751 +0700 +07 m=+8.084165917
+recevie poll request started 18.459µs
+process activity elapsed 420.250917ms
+2022/06/03 13:21:49 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID eba8005c-e301-11ec-92c4-3e4fde57a633-413592 RunID a210f107-c815-494f-8751-7b1dc2e1a50d Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:49.93866 +0700 +07 m=+8.084074751
+recevie poll request started 186.416µs
+recevie poll request 2022-06-03 13:21:49.938309 +0700 +07 m=+8.083723209
+recevie poll request started 582.917µs
+2022/06/03 13:21:49 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID dfe55436-e301-11ec-9298-3e4fde57a633-385649 RunID 653ca2f5-fbb6-49aa-8ebf-3190119fbaf2 Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:49.9389 +0700 +07 m=+8.084314834
+recevie poll request started 30.375µs
+2022/06/03 13:21:49 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8dd8cf74-e301-11ec-8fbe-3e4fde57a633-198270 RunID 1cb148ea-9eb2-4c20-a948-3437a5a806e5 Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:49.938566 +0700 +07 m=+8.083980251
+recevie poll request started 427.375µs
+poll wait time 1.174833ms
+poll wait time 1.237834ms
+poll wait time 1.58875ms
+poll wait time 1.94025ms
+poll wait time 2.465625ms
+poll wait time 2.885583ms
+poll wait time 3.922291ms
+process activity elapsed 584.747875ms
+process activity elapsed 500.84825ms
+process activity elapsed 500.741959ms
+process activity elapsed 500.938458ms
+recevie poll request 2022-06-03 13:21:50.103266 +0700 +07 m=+8.248684584
+recevie poll request started 14.333µs
+poll wait time 1.333µs
+recevie poll request 2022-06-03 13:21:50.103331 +0700 +07 m=+8.248750167
+recevie poll request started 20.417µs
+recevie poll request 2022-06-03 13:21:50.103373 +0700 +07 m=+8.248792084
+recevie poll request started 14µs
+2022/06/03 13:21:50 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 803c40f8-e301-11ec-8ed3-3e4fde57a633-168863 RunID f81bb568-f7ce-4555-b865-fc9bde58055a Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:50 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8358ae5c-e301-11ec-8eec-3e4fde57a633-177538 RunID 7d6ab278-c21e-491a-9f76-4507e5efdde9 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:50 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID d25f7828-e301-11ec-9244-3e4fde57a633-360971 RunID 03ef16ee-c034-4fcd-be53-b75293db51c3 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+poll wait time 1.060833ms
+poll wait time 1.952292ms
+recevie poll request 2022-06-03 13:21:50.219346 +0700 +07 m=+8.364768167
+recevie poll request started 34.959µs
+poll wait time 1.334µs
+2022/06/03 13:21:50 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 81667296-e301-11ec-8ee3-3e4fde57a633-172018 RunID 1ef12668-8cea-4b33-bad9-955a0e651d55 Attempt 1 TimerID 11 Duration 10s
+process activity elapsed 617.639958ms
+recevie poll request 2022-06-03 13:21:50.220973 +0700 +07 m=+8.366394876
+recevie poll request 2022-06-03 13:21:50.220975 +0700 +07 m=+8.366397417
+recevie poll request started 356.584µs
+poll wait time 1.542µs
+recevie poll request started 158.541µs
+poll wait time 917ns
+process activity elapsed 619.189167ms
+process activity elapsed 618.155334ms
+process activity elapsed 923.271084ms
+process activity elapsed 617.890083ms
+process activity elapsed 618.042125ms
+process activity elapsed 617.978625ms
+process activity elapsed 619.152958ms
+process activity elapsed 619.20625ms
+process activity elapsed 619.291292ms
+process activity elapsed 619.247583ms
+process activity elapsed 619.194917ms
+process activity elapsed 619.366291ms
+process activity elapsed 504.252541ms
+recevie poll request 2022-06-03 13:21:50.221844 +0700 +07 m=+8.367265626
+recevie poll request started 17.25µs
+recevie poll request 2022-06-03 13:21:50.221878 +0700 +07 m=+8.367299834
+recevie poll request started 8µs
+recevie poll request 2022-06-03 13:21:50.221903 +0700 +07 m=+8.367325292
+recevie poll request started 6.25µs
+recevie poll request 2022-06-03 13:21:50.22196 +0700 +07 m=+8.367382376
+recevie poll request started 12.375µs
+2022/06/03 13:21:50 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 826b678c-e301-11ec-8ee7-3e4fde57a633-174388 RunID 1043b8b8-6a2d-40ad-9ce4-c8e59e470615 Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:50.221995 +0700 +07 m=+8.367416542
+recevie poll request started 11.167µs
+recevie poll request 2022-06-03 13:21:50.222017 +0700 +07 m=+8.367438751
+recevie poll request started 6.208µs
+recevie poll request 2022-06-03 13:21:50.222049 +0700 +07 m=+8.367471042
+recevie poll request started 12µs
+2022/06/03 13:21:50 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8650af42-e301-11ec-8f0d-3e4fde57a633-184419 RunID cd49fa3c-77a9-4d89-b37d-0f6dddeb1f83 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:50 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8d757384-e301-11ec-8fb1-3e4fde57a633-196842 RunID ab51696c-8ae4-4926-a921-b41c9b1e75e8 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:50 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 88b27e46-e301-11ec-8f5d-3e4fde57a633-188190 RunID faeb6168-bcc0-4fae-8771-404c0bc4bfb0 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:50.221976 +0700 +07 m=+8.367397501
+recevie poll request started 194.666µs
+2022/06/03 13:21:50 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 82004d62-e301-11ec-8ee6-3e4fde57a633-173213 RunID bb4ba820-c21e-4d24-89f8-3d1300d816be Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:50.22225 +0700 +07 m=+8.367672376
+recevie poll request started 15.416µs
+recevie poll request 2022-06-03 13:21:50.221987 +0700 +07 m=+8.367409292
+recevie poll request started 290.709µs
+2022/06/03 13:21:50 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID da8a4f96-e301-11ec-9287-3e4fde57a633-377160 RunID 07d1bfe2-6621-47f0-9278-6f46f4deeefc Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:50.222192 +0700 +07 m=+8.367614042
+recevie poll request started 166.792µs
+2022/06/03 13:21:50 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 9227099c-e301-11ec-9035-3e4fde57a633-210693 RunID 44a29097-a78a-46cf-b64d-ae87b26a7c34 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:50 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8c7f97ac-e301-11ec-8fa0-3e4fde57a633-194834 RunID f4544b90-8e2a-43ec-ba35-609a15c9e789 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:50.222503 +0700 +07 m=+8.367924876
+recevie poll request started 8.416µs
+poll wait time 662.917µs
+2022/06/03 13:21:50 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 7f74d61c-e301-11ec-8ebc-3e4fde57a633-166268 RunID 4c4baaac-94dd-4644-be32-e6fe7698f7a0 Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:50.22214 +0700 +07 m=+8.367562001
+recevie poll request started 448.041µs
+2022/06/03 13:21:50 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 80c75c56-e301-11ec-8ee1-3e4fde57a633-170197 RunID a8349a08-eae6-4f3d-9524-522258db39b7 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:50 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID f27a81ca-e301-11ec-92cf-3e4fde57a633-426527 RunID 2f2fdc50-ccbd-4b71-a500-ea564427f2ab Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:50 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 88968aec-e301-11ec-8f59-3e4fde57a633-187907 RunID b0776cd4-abe4-425e-b321-b1a58bd510eb Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:50 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8c7ea568-e301-11ec-8fa0-3e4fde57a633-194760 RunID 46675e70-f614-4029-a88b-93e530a0b12f Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:50 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 838245c8-e301-11ec-8eec-3e4fde57a633-177859 RunID 1a1a3d9e-642a-42b9-ac9c-ff732f2e4fc0 Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:50.222828 +0700 +07 m=+8.368250126
+recevie poll request started 14.625µs
+poll wait time 542ns
+recevie poll request 2022-06-03 13:21:50.222866 +0700 +07 m=+8.368287959
+recevie poll request started 14.458µs
+recevie poll request 2022-06-03 13:21:50.222902 +0700 +07 m=+8.368324209
+recevie poll request started 6.25µs
+recevie poll request 2022-06-03 13:21:50.223 +0700 +07 m=+8.368422084
+recevie poll request started 25.583µs
+recevie poll request 2022-06-03 13:21:50.223027 +0700 +07 m=+8.368448917
+recevie poll request started 23.459µs
+poll wait time 1.680625ms
+poll wait time 987.875µs
+poll wait time 2.657792ms
+poll wait time 2.012542ms
+poll wait time 3.585042ms
+poll wait time 2.88375ms
+poll wait time 4.503667ms
+poll wait time 3.8685ms
+poll wait time 5.495792ms
+poll wait time 6.5695ms
+poll wait time 7.441916ms
+poll wait time 8.321833ms
+poll wait time 9.339875ms
+poll wait time 10.259834ms
+poll wait time 11.101583ms
+poll wait time 12.011ms
+recevie poll request 2022-06-03 13:21:50.333088 +0700 +07 m=+8.478512751
+recevie poll request started 37.958µs
+poll wait time 750ns
+recevie poll request 2022-06-03 13:21:50.333101 +0700 +07 m=+8.478526084
+recevie poll request started 47.25µs
+2022/06/03 13:21:50 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 803c2fc8-e301-11ec-8ed3-3e4fde57a633-168838 RunID a0327bf8-85b5-4fe0-85f7-5d0e27228421 Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:50.333107 +0700 +07 m=+8.478532042
+recevie poll request started 72.084µs
+2022/06/03 13:21:50 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8653e00e-e301-11ec-8f0d-3e4fde57a633-184457 RunID 3dbf9f32-ce9e-409d-bec4-4d96d3b696a8 Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:50 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 82ded2ee-e301-11ec-8eeb-3e4fde57a633-175967 RunID d2f16572-2877-42a2-98b0-c441909f9d41 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:50.333299 +0700 +07 m=+8.478724251
+recevie poll request started 8.833µs
+process activity elapsed 615.837291ms
+process activity elapsed 616.099792ms
+process activity elapsed 615.805875ms
+recevie poll request 2022-06-03 13:21:50.333324 +0700 +07 m=+8.478748876
+recevie poll request started 13.25µs
+recevie poll request 2022-06-03 13:21:50.333332 +0700 +07 m=+8.478756709
+recevie poll request started 14.625µs
+2022/06/03 13:21:50 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 843f67c0-e301-11ec-8eef-3e4fde57a633-179470 RunID fd7bd625-3697-45a4-908c-b6a63a5aa7fe Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:50 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8a9d2850-e301-11ec-8f80-3e4fde57a633-191486 RunID a062a01b-01d5-45b0-b741-f7e52c43b851 Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:50 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 68ba0a6e-e301-11ec-8cf8-3e4fde57a633-102516 RunID 4245b5c5-573d-4f5b-8ab7-fd910562bf77 Attempt 1 TimerID 13 Duration 10s
+poll wait time 1.125042ms
+process activity elapsed 618.178667ms
+recevie poll request 2022-06-03 13:21:50.335309 +0700 +07 m=+8.480734001
+recevie poll request started 9.666µs
+poll wait time 2.136375ms
+process activity elapsed 617.939334ms
+recevie poll request 2022-06-03 13:21:50.335348 +0700 +07 m=+8.480772667
+recevie poll request started 13.125µs
+poll wait time 500ns
+2022/06/03 13:21:50 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 861e25fe-e301-11ec-8f0d-3e4fde57a633-184025 RunID a9a7f644-def7-448a-9389-044c3294afcd Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:50.335382 +0700 +07 m=+8.480806667
+recevie poll request started 6.584µs
+recevie poll request 2022-06-03 13:21:50.335395 +0700 +07 m=+8.480819501
+recevie poll request started 4µs
+poll wait time 2.962208ms
+poll wait time 1.0035ms
+poll wait time 3.915958ms
+poll wait time 2.004666ms
+poll wait time 4.918709ms
+poll wait time 3.970875ms
+recevie poll request 2022-06-03 13:21:50.49951 +0700 +07 m=+8.644938667
+recevie poll request started 56.334µs
+poll wait time 3µs
+recevie poll request 2022-06-03 13:21:50.499632 +0700 +07 m=+8.645060751
+recevie poll request started 42.375µs
+process activity elapsed 561.075625ms
+recevie poll request 2022-06-03 13:21:50.499697 +0700 +07 m=+8.645125959
+recevie poll request started 21.125µs
+process activity elapsed 561.409291ms
+process activity elapsed 560.867ms
+process activity elapsed 561.284416ms
+process activity elapsed 560.953375ms
+process activity elapsed 560.981125ms
+process activity elapsed 560.906834ms
+recevie poll request 2022-06-03 13:21:50.499755 +0700 +07 m=+8.645184167
+recevie poll request started 68.959µs
+2022/06/03 13:21:50 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 74d2d4e8-e301-11ec-8dfb-3e4fde57a633-136177 RunID d9df5d09-bfc5-47d7-ba38-9cdae39c738a Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:50 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8ea24cfa-e301-11ec-8fdf-3e4fde57a633-200926 RunID 267f0845-d9be-409a-b138-8c9dbeeb923d Attempt 1 TimerID 11 Duration 10s
+process activity elapsed 782.337333ms
+process activity elapsed 782.492875ms
+process activity elapsed 782.596583ms
+process activity elapsed 561.005875ms
+recevie poll request 2022-06-03 13:21:50.499756 +0700 +07 m=+8.645185001
+recevie poll request started 168.75µs
+poll wait time 1.417µs
+process activity elapsed 782.609792ms
+recevie poll request 2022-06-03 13:21:50.499863 +0700 +07 m=+8.645292334
+process activity elapsed 561.418792ms
+process activity elapsed 782.344791ms
+recevie poll request 2022-06-03 13:21:50.499801 +0700 +07 m=+8.645230001
+recevie poll request started 198.416µs
+recevie poll request 2022-06-03 13:21:50.499859 +0700 +07 m=+8.645287751
+recevie poll request started 154.125µs
+process activity elapsed 782.677083ms
+recevie poll request started 108.583µs
+recevie poll request 2022-06-03 13:21:50.499869 +0700 +07 m=+8.645298126
+recevie poll request started 176µs
+recevie poll request 2022-06-03 13:21:50.499862 +0700 +07 m=+8.645291584
+recevie poll request started 193.708µs
+process activity elapsed 782.61375ms
+recevie poll request 2022-06-03 13:21:50.500064 +0700 +07 m=+8.645493459
+recevie poll request started 10.667µs
+2022/06/03 13:21:50 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 861bb31e-e301-11ec-8f0d-3e4fde57a633-184004 RunID 2d43e21b-78dc-4f22-b631-be9fb7465f6c Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:50.499942 +0700 +07 m=+8.645370667
+recevie poll request started 228.875µs
+recevie poll request 2022-06-03 13:21:50.500049 +0700 +07 m=+8.645478167
+recevie poll request started 143.375µs
+recevie poll request 2022-06-03 13:21:50.500002 +0700 +07 m=+8.645431251
+recevie poll request started 200.125µs
+recevie poll request 2022-06-03 13:21:50.499779 +0700 +07 m=+8.645207792
+recevie poll request started 433.792µs
+process activity elapsed 782.521875ms
+recevie poll request 2022-06-03 13:21:50.499972 +0700 +07 m=+8.645400834
+recevie poll request started 254.333µs
+2022/06/03 13:21:50 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID d55f585e-e301-11ec-9246-3e4fde57a633-364428 RunID a6a3380d-4419-4ed8-8038-1e13c51f3be2 Attempt 1 TimerID 11 Duration 10s
+process activity elapsed 772.162875ms
+2022/06/03 13:21:50 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 88899332-e301-11ec-8f59-3e4fde57a633-187820 RunID 35e7d7fe-38ab-4d9b-8046-ac6dda8f9271 Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:50 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 849c4972-e301-11ec-8ef3-3e4fde57a633-180372 RunID 91e6d4d0-591a-4e8a-87a7-110eb3c46cb9 Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:50 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 7eeb7fc0-e301-11ec-8eb5-3e4fde57a633-164431 RunID 0021f79d-4181-4e30-8c5b-1b4f0f8365d2 Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:50 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 87966504-e301-11ec-8f18-3e4fde57a633-185885 RunID c0bc80a6-a194-4f5f-a6a8-11d91476a640 Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:50 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 7f98d86e-e301-11ec-8ec3-3e4fde57a633-166670 RunID 7be46f3d-6cd7-4452-8a10-f0abdba7889a Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:50 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8bdc9a7a-e301-11ec-8f99-3e4fde57a633-193382 RunID 7b7e7ded-3e90-4656-941a-9253e2711e58 Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:50 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 81efc9c4-e301-11ec-8ee6-3e4fde57a633-173063 RunID 8be7d9bd-77c3-464e-993b-795655870fd2 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:50 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 83e073d2-e301-11ec-8eed-3e4fde57a633-178913 RunID e7953a8b-03ba-43b8-ac71-ad5efcad6dbf Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+poll wait time 913.334µs
+poll wait time 1.020708ms
+poll wait time 1.968625ms
+poll wait time 1.921333ms
+poll wait time 2.873458ms
+poll wait time 2.817833ms
+poll wait time 3.634875ms
+poll wait time 4.62275ms
+poll wait time 5.68825ms
+poll wait time 6.588041ms
+poll wait time 7.480875ms
+poll wait time 8.440583ms
+poll wait time 9.473292ms
+poll wait time 10.529708ms
+recevie poll request 2022-06-03 13:21:50.571154 +0700 +07 m=+8.716585084
+recevie poll request started 36.333µs
+poll wait time 1.083µs
+recevie poll request 2022-06-03 13:21:50.571219 +0700 +07 m=+8.716649917
+recevie poll request started 13.542µs
+poll wait time 417ns
+recevie poll request 2022-06-03 13:21:50.571172 +0700 +07 m=+8.716602626
+recevie poll request started 94.916µs
+recevie poll request 2022-06-03 13:21:50.571183 +0700 +07 m=+8.716614209
+recevie poll request started 96.833µs
+2022/06/03 13:21:50 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 95d55828-e301-11ec-9060-3e4fde57a633-218839 RunID bdaddfe7-159b-4bcb-8979-c604c605014f Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:50.571287 +0700 +07 m=+8.716718126
+recevie poll request started 18.208µs
+recevie poll request 2022-06-03 13:21:50.571295 +0700 +07 m=+8.716726042
+recevie poll request started 27.042µs
+2022/06/03 13:21:50 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 893f7f58-e301-11ec-8f6c-3e4fde57a633-189443 RunID 6f0fc014-3e1d-44f8-9c05-839bff9226df Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:50.571268 +0700 +07 m=+8.716699417
+recevie poll request started 84.959µs
+recevie poll request 2022-06-03 13:21:50.571353 +0700 +07 m=+8.716783709
+recevie poll request started 11.167µs
+recevie poll request 2022-06-03 13:21:50.571356 +0700 +07 m=+8.716787334
+recevie poll request started 16.25µs
+2022/06/03 13:21:50 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 83d4cf1e-e301-11ec-8eed-3e4fde57a633-178714 RunID d4579309-be56-4d86-a7d0-c3826c06c8f2 Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:50 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8cf6b5b2-e301-11ec-8fa6-3e4fde57a633-195791 RunID 40dac141-4660-420f-8a70-0e4eebc9b50c Attempt 1 TimerID 11 Duration 10s
+recevie poll request 2022-06-03 13:21:50.571413 +0700 +07 m=+8.716844376
+recevie poll request started 22.875µs
+recevie poll request 2022-06-03 13:21:50.571397 +0700 +07 m=+8.716827917
+recevie poll request started 52.667µs
+recevie poll request 2022-06-03 13:21:50.571434 +0700 +07 m=+8.716864959
+recevie poll request 2022-06-03 13:21:50.571421 +0700 +07 m=+8.716851626
+recevie poll request started 50.333µs
+recevie poll request 2022-06-03 13:21:50.571483 +0700 +07 m=+8.716913876
+recevie poll request started 18.333µs
+2022/06/03 13:21:50 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 889decec-e301-11ec-8f59-3e4fde57a633-187968 RunID 7ce1b625-3e0f-463a-9a4a-4291e9cd2d05 Attempt 1 TimerID 11 Duration 10s
+recevie poll request started 28.792µs
+recevie poll request 2022-06-03 13:21:50.571519 +0700 +07 m=+8.716950417
+recevie poll request started 98.792µs
+recevie poll request 2022-06-03 13:21:50.571529 +0700 +07 m=+8.716959626
+recevie poll request started 104.333µs
+2022/06/03 13:21:50 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 7bfe20d8-e301-11ec-8e6e-3e4fde57a633-156190 RunID 0b35c528-84f5-4685-9fdf-e7cea62d52b3 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+recevie poll request 2022-06-03 13:21:50.571534 +0700 +07 m=+8.716964626
+recevie poll request started 135.25µs
+2022/06/03 13:21:50 DEBUG ExecuteActivity Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 8656190a-e301-11ec-8f0d-3e4fde57a633-184468 RunID 0809ea09-9d03-4ee6-a32b-da90a3702518 Attempt 1 ActivityID 5 ActivityType ComposeGreeting
+2022/06/03 13:21:50 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 86233710-e301-11ec-8f0d-3e4fde57a633-184066 RunID 3a0fe6f8-01ee-4595-96f9-85259b5a05f9 Attempt 1 TimerID 11 Duration 10s
+2022/06/03 13:21:50 DEBUG NewTimer Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkflowType GreetingWorkflow WorkflowID 7fcef426-e301-11ec-8ec3-3e4fde57a633-166991 RunID 1564e367-eb9e-42f9-b2bb-a2125a96218c Attempt 1 TimerID 11 Duration 10s
+poll wait time 1.069667ms
+poll wait time 1.035958ms
+poll wait time 2.067125ms
+poll wait time 2.006875ms
+poll wait time 2.886375ms
+poll wait time 3.065291ms
+poll wait time 3.986125ms
+poll wait time 3.8945ms
+poll wait time 4.821291ms
+poll wait time 4.983958ms
+poll wait time 5.608125ms
+poll wait time 5.824917ms
+poll wait time 6.590084ms
+poll wait time 6.691208ms
+poll wait time 7.7725ms
+2022/06/03 13:21:50 INFO  Worker has been stopped. Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ Signal interrupt
+2022/06/03 13:21:50 WARN  Failed to poll for task. Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkerType WorkflowWorker Error worker stopping
+2022/06/03 13:21:50 INFO  Stopped Worker Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@
+2022/06/03 13:21:50 WARN  Failed to poll for task. Namespace default TaskQueue GREETING_TASK_QUEUE WorkerID 36592@SHOPEEVNs-MacBook-Pro.local@ WorkerType ActivityWorker Error worker stopping
+recevie poll request 2022-06-03 13:21:50.725272 +0700 +07 m=+8.870706709
+recevie poll request 2022-06-03 13:21:50.725328 +0700 +07 m=+8.870762917
+recevie poll request 2022-06-03 13:21:50.725343 +0700 +07 m=+8.870777959
+recevie poll request started 16.667µs
